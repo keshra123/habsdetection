@@ -25,5 +25,5 @@ heading_object=soup.find_all( 'h3' )
 # and print it as a string.
 for info in heading_object:
     print(info.getText())
-    print("------")
+    print("-----")
 
