@@ -12,13 +12,12 @@ import webbrowser
 # 'https://google.com/search?q=' and
 # our customized search keyword.
 # Concatenate them
-text= "algal blooms"
-url = 'https://news.google.com/search?q=' + text
+text= "site:twitter.com -site:m.twitter.com algal blooms"
+url = 'https://google.com/search?q=' + text
 
 # Fetch the URL data using requests.get(url),
 # store it in a variable, request_result.
 request_result=requests.get( url )
-#print(request_result.content)
 #content = request_result.text
 
 
@@ -28,42 +27,40 @@ soup = bs4.BeautifulSoup(request_result.text,
                         "html.parser")
 #print(soup)
 
-def title():
-    result_tl = soup.select('article .DY5T1d.RZIKme')
+
+def text():
+    result_tl = soup.select('article VwiC3b.yXK7lf.MUxGbd.yDYNvb.lyLwlc.lEBKkf')
     title = [t.text for t in result_tl]
     print(title)
     print(len(title))
 
 def datetime():
-    result_dt = soup.select('[datetime]')
-    timedate = [d['datetime'] for d in result_dt]
-    print(timedate)
-    print(len(timedate))
+    result_dt = soup.select('span')
+    #print(result_dt)
+    #print(len(result_dt))
 
 def links():
     links = []
-    base_url = 'https://news.google.com/'
-    for i in soup.select('article .DY5T1d.RZIKme'):
+    base_url = url
+    #base_url = 'https://www.google.com/'
+    for i in soup.select('article .egMi0.KCrYT'):
         ss = urljoin(base_url, i.get('href'))
     # put all absolute links into empty list
         links.append(ss)
     #for x in range(6):
     #    webbrowser.open(links[x])
     #print(weburl)
-    print(links)
+    #println(links)
+#text()
+#datetime()
+#links()
 
-title()
-datetime()
-links()
-
-
+"""
 #join = []
-#for link in soup.find_all('a', href=True):
-#    if "./articles" in link['href']:
-#        news = url + link['href']
-#        join.append(news)
-#print(join)
-
+elements = soup.find_all('div', id=True)
+for element in elements:    
+    print(element)
+"""
 
 #print(link['href'])
 #soup = bs4(request_result.content, 'lxml')
