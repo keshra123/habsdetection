@@ -1,0 +1,59 @@
+1694923741436	geckodriver	INFO	Listening on 127.0.0.1:49342
+1694923741804	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0m/jy3f5x9j14j2knysbxrvs5wc0000gn/T/rust_mozprofilejsCmBK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694923742817	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694923743391	Marionette	INFO	Listening on port 49351
+WebDriver BiDi listening on ws://127.0.0.1:49343
+Read port: 49351
+1694923743801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49343/devtools/browser/8fd84336-3d76-4d4b-a049-38a5de130a56
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iZsx4/yF/l/en_US/sUEqHh8mR-s.js?_nc_x=Ij3Wp8lg5Kz, line 128: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1694923816304	geckodriver	INFO	Listening on 127.0.0.1:49405
+1694923816822	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0m/jy3f5x9j14j2knysbxrvs5wc0000gn/T/rust_mozprofileOGumdK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694923817420	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694923817656	Marionette	INFO	Listening on port 49413
+Read port: 49413
+WebDriver BiDi listening on ws://127.0.0.1:49406
+1694923817916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49406/devtools/browser/8c06a2e9-1de8-46dc-b80e-1b08382e94a7
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3i9Ja4/y5/l/en_US/t88Fnhkq7_W.js?_nc_x=Ij3Wp8lg5Kz, line 919: Script terminated by timeout at:
+h.canUseNavigatorBeacon@https://static.cdninstagram.com/rsrc.php/v3i9Ja4/y5/l/en_US/t88Fnhkq7_W.js?_nc_x=Ij3Wp8lg5Kz:919:4300
+B@https://static.cdninstagram.com/rsrc.php/v3i9Ja4/y5/l/en_US/t88Fnhkq7_W.js?_nc_x=Ij3Wp8lg5Kz:919:1625
+h._initialize/<@https://static.cdninstagram.com/rsrc.php/v3i9Ja4/y5/l/en_US/t88Fnhkq7_W.js?_nc_x=Ij3Wp8lg5Kz:919:4927
+d@https://static.cdninstagram.com/rsrc.php/v3i9Ja4/y5/l/en_US/t88Fnhkq7_W.js?_nc_x=Ij3Wp8lg5Kz:920:158
+
+1694923861290	geckodriver	INFO	Listening on 127.0.0.1:49455
+1694923861807	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0m/jy3f5x9j14j2knysbxrvs5wc0000gn/T/rust_mozprofile3AID2k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694923862393	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694923862626	Marionette	INFO	Listening on port 49463
+Read port: 49463
+WebDriver BiDi listening on ws://127.0.0.1:49456
+1694923862860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49456/devtools/browser/3f22a286-1e98-4aa8-8436-83ddc0aac60b
+1694923874352	Marionette	INFO	Stopped listening on port 49351
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1694923878324	Marionette	INFO	Stopped listening on port 49413
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1694923979395	geckodriver	INFO	Listening on 127.0.0.1:49506
+1694923979910	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/0m/jy3f5x9j14j2knysbxrvs5wc0000gn/T/rust_mozprofile7ZKRt4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694923980500	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1694923980742	Marionette	INFO	Listening on port 49512
+Read port: 49512
+WebDriver BiDi listening on ws://127.0.0.1:49507
+1694923980963	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49507/devtools/browser/d84b0051-f661-4da5-839a-0baa7a0410ea
+1694923983687	Marionette	INFO	Stopped listening on port 49463
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://static.cdninstagram.com/rsrc.php/v3iZsx4/yF/l/en_US/sUEqHh8mR-s.js?_nc_x=Ij3Wp8lg5Kz, line 128: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
