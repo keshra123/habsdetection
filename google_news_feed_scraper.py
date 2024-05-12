@@ -67,6 +67,7 @@ if __name__ == "__main__":
     #query = "cyanobacteria"
     results1 = scrape_google_news_feed("toxic+algae")
     time.sleep(40)
+    """
     results2 = scrape_google_news_feed("cyanobacteria")
     time.sleep(40)
     results3 = scrape_google_news_feed("algal+bloom")
@@ -88,5 +89,3 @@ if __name__ == "__main__":
     dict = {'links': links, 'titles': titles, 'texts': texts, 'timestamp':timestamp}
     df = pd.DataFrame(dict)
     df.to_csv('googlenews2.csv')
-    """
-    #time.sleep(40)
