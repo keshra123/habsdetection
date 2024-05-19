@@ -20,17 +20,18 @@ timestamp = []
 link = []
 queries = ["toxic+algae","cyanobacteria","algal+bloom","algae bloom","blue-green+algae","red+tide"]
 for query in queries:
-	for post in reddit.subreddit("all").search(query=query,sort="new"):
+	for post in reddit.subreddit("all").search(query=query,time_filter="year"):
 		titles.append(post.title)
 		posts.append(post.selftext)
 		tz = pytz.timezone('America/New_York')
 		timestamp.append(datetime.fromtimestamp(post.created_utc).replace(tzinfo=tz).strftime("%d %b %Y %H:%M:%S"))
 		links.append(post.url)
-	print(titles)
-	print(links)
-	print(posts)
-	print(timestamp)
+	#print(titles)
+	#print(links)
+	#print(posts)
+	#print(timestamp)
 	dict = {'links': links, 'titles': titles, 'texts': posts, 'timestamp':timestamp}
 	df = pd.DataFrame(dict)
 	df.to_csv('reddit.csv')
+#print("Reddit Completed")
 
