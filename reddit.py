@@ -18,7 +18,8 @@ titles = []
 links = []
 timestamp = []
 link = []
-queries = ["toxic+algae","cyanobacteria","algal+bloom","algae bloom","blue-green+algae","red+tide"]
+#queries = ["toxic+algae","cyanobacteria","algal+bloom","algae bloom","blue-green+algae","red+tide"]
+queries = ["blue-green+algae"]
 for query in queries:
 	for post in reddit.subreddit("all").search(query=query,time_filter="year"):
 		titles.append(post.title)

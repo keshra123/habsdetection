@@ -1,0 +1,1322 @@
+<!doctype html>
+
+<!--[if lt IE 7]><html lang="en-US" class="no-js lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html lang="en-US" class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US" class="no-js"><!--<![endif]-->
+
+	<head>
+		<meta charset="utf-8">
+
+				<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<title>Toxic blue-green algae found in two Nebraska lakes</title>
+
+				<meta name="HandheldFriendly" content="True">
+		<meta name="MobileOptimized" content="320">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+				<link rel="icon" href="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2021/09/x/i/klkn-v2-48x48-1.png">
+		<link rel="apple-touch-icon" href="">
+		<!--[if IE]>
+			<link rel="shortcut icon" href="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2021/09/x/i/klkn-v2-48x48-1.png/favicon.ico">
+		<![endif]-->
+
+		<meta name="msapplication-TileColor" content="#f01d4f">
+		<meta name="msapplication-TileImage" content="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/library/images/win8-tile-icon.png">
+		<meta name="theme-color" content="#121212">
+
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"> <!-- Font Awesome Glyphicons -->
+		<link rel="pingback" href="https://www.klkntv.com/xmlrpc.php">
+
+		
+	<script type="text/javascript">
+		if(typeof ad_slots_refresh =='undefined'){
+			var ad_slots_refresh = new Array();
+		}
+		if(typeof gtx_ads_conf =='undefined'){
+			var gtx_ads_conf = {};
+			gtx_ads_conf.targetMap = {};
+			gtx_ads_conf.ads = [];
+			gtx_ads_conf.lazy = [];
+			gtx_ads_conf.templates = {};
+		}
+		if(typeof googletag =='undefined'){
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+		}
+		gtx_ads_conf.fulltarget = "post-template-default single single-post postid-3491244 single-format-standard postname-toxic-blue-green-algae-found-in-two-nebraska-lakes term-category-nebraska-news term-category-news term-category-top-stories term-post_content_term-contains-video has-video type-video wpb-js-composer js-comp-ver-6.10.0 vc_responsive";
+		gtx_ads_conf.targetMap.url = "/toxic-blue-green-algae-found-in-two-nebraska-lakes/";
+		gtx_ads_conf.targetMap.post = "3491244";
+		gtx_ads_conf.targetMap.category = ["nebraska-news"];
+		gtx_ads_conf.templates = {
+			parallax: 'https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-ad-manager/templates/parallax.js',
+			reveal: 'https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-ad-manager/templates/reveal.js',
+            roller: 'https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-ad-manager/templates/roller.js'
+		};
+	</script>
+			<script>
+			function gtx_enable_dfp(){ /* do nothing */ }
+			if(typeof ad_slots_refresh =='undefined'){
+				var ad_slots_refresh = new Array(); 
+			}
+		</script>
+		<script>(function(d, s, id){
+				 var js, fjs = d.getElementsByTagName(s)[0];
+				 if (d.getElementById(id)) {return;}
+				 js = d.createElement(s); js.id = id;
+				 js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+				 fjs.parentNode.insertBefore(js, fjs);
+			   }(document, 'script', 'facebook-jssdk'));</script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Harmful algal blooms are affecting the Iron Horse Trail Lake in Pawnee County and Maskenthine Reservoir in Stanton County." />
+	<link rel="canonical" href="https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Toxic blue-green algae found in two Nebraska lakes" />
+	<meta property="og:description" content="Harmful algal blooms are affecting the Iron Horse Trail Lake in Pawnee County and Maskenthine Reservoir in Stanton County." />
+	<meta property="og:url" content="https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/" />
+	<meta property="og:site_name" content="KLKN-TV" />
+	<meta property="article:publisher" content="https://www.facebook.com/klkntv" />
+	<meta property="article:published_time" content="2024-06-13T20:22:52+00:00" />
+	<meta property="article:modified_time" content="2024-06-15T05:40:28+00:00" />
+	<meta property="og:image" content="https://www.klkntv.com/content/uploads/2021/06/p/y/download-3.png" />
+	<meta property="og:image:width" content="320" />
+	<meta property="og:image:height" content="240" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="author" content="Mark Fischer" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@channel8abc" />
+	<meta name="twitter:site" content="@channel8abc" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Mark Fischer" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/#article","isPartOf":{"@id":"https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/"},"author":{"name":"Mark Fischer","@id":"https://www.klkntv.com/#/schema/person/3c5f13da35ce68084240e5351c23e8af"},"headline":"Toxic blue-green algae found in two Nebraska lakes","datePublished":"2024-06-13T20:22:52+00:00","dateModified":"2024-06-15T05:40:28+00:00","mainEntityOfPage":{"@id":"https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/"},"wordCount":184,"publisher":{"@id":"https://www.klkntv.com/#organization"},"image":{"@id":"https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/#primaryimage"},"thumbnailUrl":"https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2021/06/p/y/download-3.png","keywords":["blue green algae","harmful algal blooms","iron horse lake trail","Maskenthine Reservoir","Nebraska","Nebraska Department of Environment and Energy","Pawnee County","Stanton County"],"articleSection":["Nebraska News","News","Top Stories"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/","url":"https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/","name":"Toxic blue-green algae found in two Nebraska lakes","isPartOf":{"@id":"https://www.klkntv.com/#website"},"primaryImageOfPage":{"@id":"https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/#primaryimage"},"image":{"@id":"https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/#primaryimage"},"thumbnailUrl":"https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2021/06/p/y/download-3.png","datePublished":"2024-06-13T20:22:52+00:00","dateModified":"2024-06-15T05:40:28+00:00","description":"Harmful algal blooms are affecting the Iron Horse Trail Lake in Pawnee County and Maskenthine Reservoir in Stanton County.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/#primaryimage","url":"https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2021/06/p/y/download-3.png","contentUrl":"https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2021/06/p/y/download-3.png","width":320,"height":240,"caption":"Harmful Algal Bloom seen growing in a lake. Photo courtesy of NDEE Beachwatch."},{"@type":"WebSite","@id":"https://www.klkntv.com/#website","url":"https://www.klkntv.com/","name":"KLKN-TV","description":"News, Weather and Sports for Lincoln, NE; KLKNTV.com","publisher":{"@id":"https://www.klkntv.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.klkntv.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.klkntv.com/#organization","name":"Channel 8 KLKN-TV","url":"https://www.klkntv.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.klkntv.com/#/schema/logo/image/","url":"https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2020/01/KLKN-TV-logo.png","contentUrl":"https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2020/01/KLKN-TV-logo.png","width":198,"height":140,"caption":"Channel 8 KLKN-TV"},"image":{"@id":"https://www.klkntv.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/klkntv","https://twitter.com/channel8abc","https://www.instagram.com/channel8klkntv/","https://www.youtube.com/channel/UCIFxvmtoGMb5wd-XLuqDJjQ"]},{"@type":"Person","@id":"https://www.klkntv.com/#/schema/person/3c5f13da35ce68084240e5351c23e8af","name":"Mark Fischer","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.klkntv.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/c6a6e2330355113c13d55ecf4e035112?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/c6a6e2330355113c13d55ecf4e035112?s=96&d=mm&r=g","caption":"Mark Fischer"},"url":"https://www.klkntv.com/author/mfischer/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//wpcdn.us-east-1.vip.tn-cloud.net' />
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//cdn.polyfill.io' />
+<link rel='dns-prefetch' href='//ws.sharethis.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel="alternate" type="application/rss+xml" title="KLKN-TV &raquo; Feed" href="https://www.klkntv.com/feed/" />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.klkntv.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='bootstrap-css-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/library/css/bootstrap/bootstrap.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bones-stylesheet-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/library/css/style.css?ver=1714050726' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='bones-ie-only-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/library/css/ie.css' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='list-grid-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/library/css/grid.css?ver=1.11.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.klkntv.com/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pdfemb-gutenberg-block-backend-js-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/pdf-embedder/css/pdfemb-blocks.css' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.klkntv.com/wp-includes/css/classic-themes.min.css' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='gt-posts-slider-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/gtxcel-plugin/vc_posts_slider/posts-slider.css?ver=1570550597' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/js_composer/assets/lib/flexslider/flexslider.min.css?ver=6.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='gt-flexslider-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/gtxcel-plugin/vc_gallery/gt-flexslider.css?ver=1648237149' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyphoto-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto.min.css?ver=6.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='rayos_alm_list_templates_style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/gtxcel-plugin/functionalities//css/rayos_alm_list_templates.css?ver=1667523778' type='text/css' media='all' />
+<link rel='stylesheet' id='googlefonts-css' href='https://fonts.googleapis.com/css?family=Fira+Sans:400,500|Roboto+Condensed:400&subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='blox-syndication-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/blox-syndication/assets/css/blox-syndication.css' type='text/css' media='all' />
+<link rel='stylesheet' id='geobase-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/geobase/geobase.css?ver=1679517279' type='text/css' media='all' />
+<style id='geobase-style-inline-css' type='text/css'>
+
+	article.geobase-post .geobase-content-wrapper {
+		width: 100%;
+		float: none;
+	}
+	article.geobase-post .thumb-wrap {
+		width: 30%;
+		float: Left;
+		margin-right: 2%;	}
+	
+</style>
+<link rel='stylesheet' id='geobase-prettyphoto-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/geobase/prettyphoto/css/prettyPhoto.css' type='text/css' media='all' />
+<link rel='stylesheet' id='geobasemap-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/geobase/vc_geobasemap/vc_geobasemap.css?ver=1570550597' type='text/css' media='all' />
+<link rel='stylesheet' id='user-submissions-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/geobase/user-submissions/user-submissions.css?ver=1601489706' type='text/css' media='all' />
+<link rel='stylesheet' id='directory-select2-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/geobase/vc_directory_filter/assets/select2/css/select2.css?ver=3.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpfc-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gs-facebook-comments/public/css/wpfc-public.css?ver=1.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='custom-template-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gt-custom-templates/custom-templates.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ad-manager-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-ad-manager/ad-manager.css?ver=1678820704' type='text/css' media='all' />
+<link rel='stylesheet' id='bylines-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-author-bios/css/bylines.css?ver=1570550597' type='text/css' media='all' />
+<link rel='stylesheet' id='gtxcelfimagescss-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-fimages/css/all.css?ver=1570550597' type='text/css' media='all' />
+<link rel='stylesheet' id='lightbox-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-gallery/css/gtx-lightbox.css?ver=2018.3.20' type='text/css' media='all' />
+<link rel='stylesheet' id='gtx-oembed-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-oembed-extension/gtx-oembed.css?ver=1570550597' type='text/css' media='all' />
+<link rel='stylesheet' id='rayos_trending_topics_style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/rayos-trending-topics/rayos-trending-topics.css?ver=1621950080' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-share-buttons-adder-font-awesome-css' href='//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='author-bios-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-author-bios/css/author-bios.css' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/style.css?ver=1664375579' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/publisher-master/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gtx-election-teaser-widgets-css' href='https://www.klkntv.com/style/4b55e589193d80bf25f4a2fa35aeb0dc/election-teaser-widgets/' type='text/css' media='all' />
+<link rel='stylesheet' id='gtx-alert-banner-css-css' href='https://www.klkntv.com/style/4b55e589193d80bf25f4a2fa35aeb0dc/alert-banner-css/' type='text/css' media='all' />
+<link rel='stylesheet' id='gtx-custom_css_post-css' href='https://www.klkntv.com/style/7600cacf8e3215d51fdb0d6b92508a8f/custom_css_post/' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-repeater-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/includes/acf_repeater_shortcode/acf_repeater_shortcode.css' type='text/css' media='all' />
+<link rel='stylesheet' id='rayos-ssba-twitter-x-logo-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/includes/ssba-twitter-update/x-logo-styles.css?ver=1702673046' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://www.klkntv.com/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-global-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/advanced-custom-fields-pro/assets/build/css/acf-global.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-input-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/advanced-custom-fields-pro/assets/build/css/acf-input.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-pro-input-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/advanced-custom-fields-pro/assets/build/css/pro/acf-pro-input.css?ver=6.0.3' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-datepicker-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/advanced-custom-fields-pro/assets/inc/datepicker/jquery-ui.min.css?ver=1.11.4' type='text/css' media='all' />
+<link rel='stylesheet' id='acf-timepicker-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.min.css?ver=1.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-color-picker-css' href='https://www.klkntv.com/wp-admin/css/color-picker.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='blox-syndication-admin-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/blox-syndication/assets/css/admin-blox-syndication.css?ver=1.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='scheduled-elements-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-scheduled-elements/scheduled-elements.css?ver=2018.08.10' type='text/css' media='all' />
+<link rel='stylesheet' id='dgwt-jg-style-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-gallery/justified-gallery/assets/css/style.min.css?ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dgwt-jg-photoswipe-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-gallery/justified-gallery/includes/Lightbox/Photoswipe/assets/photoswipe.css?ver=1.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='dgwt-jg-photoswipe-skin-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-gallery/justified-gallery/includes/Lightbox/Photoswipe/assets/default-skin/default-skin.css?ver=1.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/rayos-tracking//rayos-tracking.js?ver=1614285194' id='rayos_tracking-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/library/js/libs/modernizr.custom.min.js?ver=2.5.3' id='bones-modernizr-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/library/js/gtxcel.js?ver=0.1' id='gtxcel-global-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/library/js/mobile-nav.js?ver=0.1' id='mobile-nav-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/geobase/prettyphoto/js/jquery.prettyPhoto.js' id='geobase-prettyphoto-script-js'></script>
+<script type='text/javascript' id='user-submissions-js-js-extra'>
+/* <![CDATA[ */
+var ajax = {"ajax_url":"https:\/\/www.klkntv.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/geobase/user-submissions/user-submissions.js?ver=1604604802' id='user-submissions-js-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/geobase/vc_directory_filter/assets/select2/js/select2.min.js?ver=3.5.2' id='directory-select2-js'></script>
+<script type='text/javascript' id='directory-filter-js-extra'>
+/* <![CDATA[ */
+var ajaxurl = "https:\/\/www.klkntv.com\/wp-admin\/admin-ajax.php";
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/geobase/vc_directory_filter/directory-filter.js?ver=1599147537' id='directory-filter-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gs-facebook-comments/public/js/wpfc-public.js?ver=1.7.2' id='wpfc-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-elections/js/gtx-elections.js?ver=2022.01.11' id='gtx-elections-js'></script>
+<script type='text/javascript' id='lightbox-script-js-extra'>
+/* <![CDATA[ */
+var lightboxSettings = {"show_ads":"1","ad_details":[{"min_width":"768","max_width":"","dfp_ad_sizes":[{"dfp_ad_width":"728","dfp_ad_height":"90"}]},{"min_width":"","max_width":"767","dfp_ad_sizes":[{"dfp_ad_width":"320","dfp_ad_height":"50"}]}],"dfp_path":"\/132916964,22666483375\/klkntv.com\/nebraska-news","slot_name":"lightbox_ad","post_title":"Toxic blue-green algae found in two Nebraska lakes","post_type":"post","post_id":"3491244","post_cats":"Nebraska News, News, Top Stories","author":"Mark Fischer"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-gallery/js/gtx-lightbox.js?ver=2018.3.20' id='lightbox-script-js'></script>
+<script id='st_insights_js' type='text/javascript' src='https://ws.sharethis.com/button/st_insights.js?publisher=4d48b7c5-0ae3-43d4-bfbe-3ff8c17a8ae6&#038;product=simpleshare' id='ssba-sharethis-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/includes/acf_repeater_shortcode/acf_repeater_shortcode.js' id='acf-repeater-script-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2' id='jquery-ui-mouse-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2' id='jquery-ui-sortable-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.2' id='jquery-ui-resizable-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/advanced-custom-fields-pro/assets/build/js/acf.min.js?ver=6.0.3' id='acf-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/advanced-custom-fields-pro/assets/build/js/acf-input.min.js?ver=6.0.3' id='acf-input-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/advanced-custom-fields-pro/assets/build/js/pro/acf-pro-input.min.js?ver=6.0.3' id='acf-pro-input-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy g:i a","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/advanced-custom-fields-pro/assets/inc/timepicker/jquery-ui-timepicker-addon.min.js?ver=1.6.1' id='acf-timepicker-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2' id='jquery-ui-draggable-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.2' id='jquery-ui-slider-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/jquery/jquery.ui.touch-punch.js?ver=0.2.2' id='jquery-touch-punch-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-admin/js/iris.min.js?ver=1.0.7' id='iris-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://www.klkntv.com/wp-admin/js/color-picker.min.js' id='wp-color-picker-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/advanced-custom-fields-pro/assets/inc/color-picker-alpha/wp-color-picker-alpha.js?ver=3.0.0' id='acf-color-picker-alpha-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/acf-recaptcha/js/input.js' id='acf-input-recaptcha-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js' id='recaptcha-api-js'></script>
+<script type='text/javascript' id='blox-syndication-js-extra'>
+/* <![CDATA[ */
+var blox_synd_ajax_object = {"ajax_url":"https:\/\/www.klkntv.com\/wp-admin\/admin-ajax.php","asset_path":"https:\/\/wpcdn.us-east-1.vip.tn-cloud.net\/www.klkntv.com\/content\/plugins\/blox-syndication\/assets"};
+var blox_synd_ajax_object = {"ajax_url":"https:\/\/www.klkntv.com\/wp-admin\/admin-ajax.php","asset_path":"https:\/\/wpcdn.us-east-1.vip.tn-cloud.net\/www.klkntv.com\/content\/plugins\/blox-syndication\/assets"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/blox-syndication/assets/js/admin-blox-syndication.js?ver=1.1.1' id='blox-syndication-js'></script>
+<link rel="https://api.w.org/" href="https://www.klkntv.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.klkntv.com/wp-json/wp/v2/posts/3491244" /><link rel='shortlink' href='https://www.klkntv.com/?p=3491244' />
+<link rel="alternate" type="application/json+oembed" href="https://www.klkntv.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.klkntv.com%2Ftoxic-blue-green-algae-found-in-two-nebraska-lakes%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.klkntv.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.klkntv.com%2Ftoxic-blue-green-algae-found-in-two-nebraska-lakes%2F&#038;format=xml" />
+<meta property="fb:app_id" content="2725035560896891" />        <script type="text/javascript" src="//tags.crwdcntrl.net/c/15004/cc.js?ns=_cc15004" id="LOTCC_15004"></script>
+        <script type="text/javascript" language="javascript">
+            let CookiePro_active = '';
+
+            function isSupported(getStorage) {
+                try {
+                    const key = "__some_random_key_you_are_not_going_to_use__";
+                    getStorage().setItem(key, key);
+                    getStorage().removeItem(key);
+                    return true;
+                } catch (e) {
+                    return false;
+                }
+            }
+
+            function getCookie(cookie_name) {
+                let cookie_value = '';
+
+                let decoded_cookies = decodeURIComponent(document.cookie);
+                let split_cookies = decoded_cookies.split(';');
+                cookie_name = cookie_name + '=';
+
+                for (let i = 0; i < split_cookies.length; i ++) {
+                    let cookie = split_cookies[i].trim();
+                    
+                    if (cookie.indexOf(cookie_name) == 0) {
+                        cookie_value = cookie.substring(cookie_name.length, cookie.length);
+                    }
+                }
+
+                return cookie_value;
+            }
+
+            if (isSupported(() => localStorage)) {
+                var Rayos_all_cookies_allowed = CookiePro_active ? (localStorage.getItem('rayos.privacy.cookies') || null) : 'yes';
+                localStorage.setItem('rayos.privacy.cookies', Rayos_all_cookies_allowed);
+            } else {
+                var Rayos_all_cookies_allowed = CookiePro_active ? getCookie('rayos.privacy.cookies') : 'yes';
+                document.cookie = "rayos.privacy.cookies=" + Rayos_all_cookies_allowed;
+            }
+            
+
+            // Only allow data collection if all cookies are allowed.
+            if (Rayos_all_cookies_allowed === 'yes') {
+                try {
+                    _cc15004.add("int", "Site Section : Nebraska News");_cc15004.add("int", "Page Title : Toxic blue-green algae found in two Nebraska lakes");_cc15004.add("int", "Category : Nebraska News");_cc15004.add("int", "Category : News");_cc15004.add("int", "Category : Top Stories");_cc15004.add("med", "Keyword : blue green algae");_cc15004.add("med", "Keyword : harmful algal blooms");_cc15004.add("med", "Keyword : iron horse lake trail");_cc15004.add("med", "Keyword : Maskenthine Reservoir");_cc15004.add("med", "Keyword : Nebraska");_cc15004.add("med", "Keyword : Nebraska Department of Environment and Energy");_cc15004.add("med", "Keyword : Pawnee County");_cc15004.add("med", "Keyword : Stanton County");_cc15004.bcp();                } catch (error) {
+                    console.error('Lotame data collection failed. Please verify client settings.');
+                }
+            }
+        </script>
+        	<script type="text/javascript">
+		var user_logged_in = 0;
+		var logout_url = 'https://www.klkntv.com/wp-login.php?action=logout&amp;_wpnonce=aba6e361c6';
+	</script>
+						<style type="text/css" media="screen">
+			.loggedin {
+				display: none;
+			}
+			.loggedout {
+				display: block;
+			}
+			</style>
+			<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+        <script>
+        (function () {
+            let all_cookies_allowed = true;
+
+            if (typeof isSupported === 'function' && isSupported(() => localStorage)) {
+                all_cookies_allowed = (localStorage.getItem('rayos.privacy.cookies') !== null 
+                && localStorage.getItem('rayos.privacy.cookies') === 'yes') ? true : false;
+            } else if (typeof getCookie === 'function') {
+                let cookie_value = getCookie('rayos.privacy.cookies');
+
+                all_cookies_allowed = (cookie_value == 'yes') ? true : false;
+            }
+
+            // Only extract audiences if all cookies are allowed.
+            if (all_cookies_allowed) {
+                var extraction_script;
+                var audience_storage;
+                var clientID = "15004";
+
+                try {
+                    audience_storage = JSON.parse(sessionStorage.getItem('rayos.dmp.audiences'));
+
+                    if (!audience_storage || !audience_storage.audiences || !audience_storage.expired) {
+                        throw "Not in sessions storage.";
+                    }
+
+                    if (audience_storage.expired < Date.now()) {
+                        sessionStorage.removeItem('rayos.dmp.audiences');
+                        throw "Cache is expired";
+                    }	
+                } catch (Exception) {
+                    if (!window.rayos_siteaud) {
+                        window.rayos_siteaud = null;
+                    }
+
+                    extraction_script = document.createElement('script');
+                    extraction_script.onload = function() {
+                        try {
+                            if (!window.rayos_siteaud) {
+                                throw "Audiences not retrieved.";
+                                return;
+                            }
+
+                            var audience_extraction = {
+                                audiences : [],
+                                expired : Date.now() + 86400000
+                            }
+
+                            for (var i = 0; i < window.rayos_siteaud.Profile.Audiences.Audience.length; i++) {
+                                var audience_abbr = window.rayos_siteaud.Profile.Audiences.Audience[i].abbr;
+                                audience_extraction.audiences[audience_extraction.audiences.length] = audience_abbr;
+                            }
+
+                            audience_extraction.audiences.sort();
+
+                            sessionStorage.setItem('rayos.dmp.audiences', JSON.stringify(audience_extraction));
+                        
+                            // Track audience extraction
+                            if (RAYOS && RAYOS.Tracking) {
+                                var oTracker = RAYOS.Tracking.createBucket({
+                                    'app': 'rayos-lotame',
+                                    'metric': 'audience-extraction',
+                                    'data': {
+                                        name: 'client',
+                                        value: clientID
+                                    }
+                                });
+
+                                oTracker.addEvent(Date.now());
+                            }
+                        } catch (Exception) {
+                            if (console && console.warn) {
+                                console.warn('Failed to add Lotame audiences to session storage.');
+                            }
+                        }				
+                    }
+
+                    extraction_script.setAttribute('async', true);
+                    extraction_script.setAttribute('src', '//ad.crwdcntrl.net/5/c=' + clientID + '/pe=y/var=rayos_siteaud');
+
+                    var page_head = document.getElementsByTagName("head");
+                    if (page_head && page_head[0]) {
+                        page_head[0].appendChild(extraction_script);
+                    }
+                }
+            }
+        })();
+        </script>
+        <link rel="icon" href="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/04/b/r/cropped-nebraska-now-desktop-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/04/b/r/cropped-nebraska-now-desktop-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/04/b/r/cropped-nebraska-now-desktop-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/04/b/r/cropped-nebraska-now-desktop-icon-270x270.png" />
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W11L2GM3R2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-W11L2GM3R2');
+</script>
+
+<meta name="google-site-verification" content="kk-EbF2CFlTYKum35jEvmKRomoJ5IJkem1i1G4NLXdM" />
+<meta http-equiv="refresh" content="600">
+<meta property="fb:pages" content="188017517897370" />
+<link id="closingsWidget_link" rel="stylesheet" type="text/css" />	</head>
+
+<body class="post-template-default single single-post postid-3491244 single-format-standard postname-toxic-blue-green-algae-found-in-two-nebraska-lakes term-category-nebraska-news term-category-news term-category-top-stories term-post_content_term-contains-video has-video type-video wpb-js-composer js-comp-ver-6.10.0 vc_responsive" itemscope itemtype="http://schema.org/WebPage">
+	<script type='text/javascript' src='/shared-content/art/stats/common/tracker.js'></script>
+	<script type='text/javascript'>
+	<!--
+	if (typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('www.klkntv.com'); TNTracker.trackPageView(); }
+	// -->
+	</script>
+	
+	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>			<div class="menu-wrap">
+			<p class="mobile-nav-title">Main Navigation</p><div class="menu-side"><ul id="menu-main-navigation" class="menu"><li id="menu-item-721" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-721"><a href="https://www.klkntv.com/news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="1" id="menu-item-link-721">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-334999" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334999"><a href="http://klkntv.com/news/local-news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="2" id="menu-item-link-334999">Local News</a></li>
+	<li id="menu-item-727" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-727"><a href="https://www.klkntv.com/news/nebraska-news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="3" id="menu-item-link-727">Nebraska News</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1499597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1499597"><a href="https://www.klkntv.com/news/nebraska-news/capitol-news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="4" id="menu-item-link-1499597">Capitol News</a></li>
+	</ul>
+</li>
+	<li id="menu-item-733" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-733"><a href="https://www.klkntv.com/news/us-world-news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="5" id="menu-item-link-733">US &#038; World News</a></li>
+	<li id="menu-item-3100649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3100649"><a href="https://www.klkntv.com/2024-election-news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="6" id="menu-item-link-3100649">2024 Election News</a></li>
+	<li id="menu-item-2924126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2924126"><a href="https://www.klkntv.com/news/entertainment-news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="7" id="menu-item-link-2924126">Entertainment News</a></li>
+	<li id="menu-item-2954902" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2954902"><a href="https://www.klkntv.com/channel-8-poll-of-the-day/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="8" id="menu-item-link-2954902">Poll of the Day</a></li>
+	<li id="menu-item-1403019" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1403019"><a href="https://www.klkntv.com/best-of-nebraska-your-top-photos-of-the-week/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="9" id="menu-item-link-1403019">Photos of the Week</a></li>
+	<li id="menu-item-366100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-366100"><a href="https://klkn.tv/lwm" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="10" id="menu-item-link-366100">Links We Mentioned</a></li>
+	<li id="menu-item-745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-745"><a href="https://www.klkntv.com/news/alerts-sign-up/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="11" id="menu-item-link-745">Get News Alerts</a></li>
+	<li id="menu-item-748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748"><a href="https://www.klkntv.com/news/submit-your-news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="12" id="menu-item-link-748">Submit Your News</a></li>
+	<li id="menu-item-3333713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3333713"><a href="https://www.klkntv.com/2024-total-solar-eclipse/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="13" id="menu-item-link-3333713">2024 Total Solar Eclipse</a></li>
+</ul>
+</li>
+<li id="menu-item-751" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-751"><a href="https://www.klkntv.com/weather/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="14" id="menu-item-link-751">Weather</a>
+<ul class="sub-menu">
+	<li id="menu-item-754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-754"><a href="https://www.klkntv.com/weather/10-day-outlook/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="15" id="menu-item-link-754">10-Day Outlook</a></li>
+	<li id="menu-item-772" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-772"><a href="https://www.klkntv.com/weather/radar/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="16" id="menu-item-link-772">Weather Radar</a></li>
+	<li id="menu-item-757" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-757"><a href="https://www.klkntv.com/weather/school-closings/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="17" id="menu-item-link-757">Closings &#038; Delays</a></li>
+	<li id="menu-item-760" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-760"><a href="https://www.klkntv.com/weather/flight-tracker/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="18" id="menu-item-link-760">Flight Tracker</a></li>
+	<li id="menu-item-769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-769"><a href="https://www.klkntv.com/weather/power-outages/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="19" id="menu-item-link-769">Power Outages</a></li>
+	<li id="menu-item-775" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-775"><a href="https://www.klkntv.com/weather/submit-your-photos/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="20" id="menu-item-link-775">Your Weather Photos</a></li>
+	<li id="menu-item-2590967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2590967"><a href="https://www.klkntv.com/nebraska-weather-cameras/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="21" id="menu-item-link-2590967">Nebraska Weather Cameras</a></li>
+</ul>
+</li>
+<li id="menu-item-886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-886"><a href="https://www.klkntv.com/sports/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="22" id="menu-item-link-886">Sports</a>
+<ul class="sub-menu">
+	<li id="menu-item-895" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-895"><a href="https://www.klkntv.com/sports/husker-sports/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="23" id="menu-item-link-895">Husker Sports</a></li>
+	<li id="menu-item-889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-889"><a href="https://www.klkntv.com/sports/high-school/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="24" id="menu-item-link-889">High School Sports</a></li>
+</ul>
+</li>
+<li id="menu-item-787" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-787"><a href="https://www.klkntv.com/community/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="25" id="menu-item-link-787">Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-820747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-820747"><a href="https://www.klkntv.com/showcase-nebraska/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="26" id="menu-item-link-820747">Showcase Nebraska</a></li>
+	<li id="menu-item-2925059" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2925059"><a href="https://www.klkntv.com/community/contests/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="27" id="menu-item-link-2925059">KLKN Contests</a></li>
+	<li id="menu-item-674622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-674622"><a href="https://www.klkntv.com/midday-interviews/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="28" id="menu-item-link-674622">Midday Interviews</a></li>
+	<li id="menu-item-790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-790"><a href="https://www.klkntv.com/community/calendar-events/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="29" id="menu-item-link-790">Community Calendar Events</a></li>
+</ul>
+</li>
+<li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-802"><a href="https://www.klkntv.com/watch/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="30" id="menu-item-link-802">Watch</a>
+<ul class="sub-menu">
+	<li id="menu-item-305875" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305875"><a href="https://www.klkntv.com/watch/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="31" id="menu-item-link-305875">Live Newscasts</a></li>
+	<li id="menu-item-1565866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1565866"><a href="https://www.klkntv.com/live2/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="32" id="menu-item-link-1565866">Live News Events</a></li>
+	<li id="menu-item-2590972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2590972"><a href="https://www.klkntv.com/nebraska-weather-cameras/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="33" id="menu-item-link-2590972">Nebraska Weather Cameras</a></li>
+	<li id="menu-item-811" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-811"><a href="https://www.klkntv.com/watch/video/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="34" id="menu-item-link-811">Video</a></li>
+	<li id="menu-item-808" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-808"><a href="https://www.klkntv.com/watch/tv-schedule/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="35" id="menu-item-link-808">TV Schedule</a></li>
+	<li id="menu-item-1092968" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1092968"><a href="https://www.klkntv.com/watch/apps/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="36" id="menu-item-link-1092968">Channel 8 Apps</a></li>
+</ul>
+</li>
+<li id="menu-item-814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-814"><a href="https://www.klkntv.com/about/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="37" id="menu-item-link-814">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-820" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-820"><a href="https://www.klkntv.com/about/news-team-bios/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="38" id="menu-item-link-820">Channel 8 News Team</a></li>
+	<li id="menu-item-508823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508823"><a href="https://www.klkntv.com/about/advertise/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="39" id="menu-item-link-508823">Advertise With Us</a></li>
+	<li id="menu-item-817" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-817"><a href="https://www.klkntv.com/about/careers/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="40" id="menu-item-link-817">Careers</a></li>
+	<li id="menu-item-823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-823"><a href="https://www.klkntv.com/about/closed-captioning/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="41" id="menu-item-link-823">Closed Captioning</a></li>
+	<li id="menu-item-826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="https://www.klkntv.com/about/dmca-agent/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="42" id="menu-item-link-826">DMCA Agent</a></li>
+	<li id="menu-item-832" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-832"><a target="_blank" rel="noopener" href="https://publicfiles.fcc.gov/tv-profile/KLKN" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="43" id="menu-item-link-832">FCC Public File</a></li>
+	<li id="menu-item-322853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322853"><a href="https://www.klkntv.com/about/fcc-applications/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="44" id="menu-item-link-322853">FCC Applications</a></li>
+	<li id="menu-item-322855" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-322855"><a href="https://publicfiles.fcc.gov/tv-profile/klkn/programs-list/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="45" id="menu-item-link-322855">Children&#8217;s TV Report</a></li>
+	<li id="menu-item-414737" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-414737"><a href="https://www.klkntv.com/eeo-report/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="46" id="menu-item-link-414737">EEO Report</a></li>
+	<li id="menu-item-299941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299941"><a href="https://www.klkntv.com/about/terms-of-use/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="47" id="menu-item-link-299941">Terms of Use</a></li>
+	<li id="menu-item-299944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299944"><a href="https://www.klkntv.com/about/privacy-policy/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="48" id="menu-item-link-299944">Privacy Policy</a></li>
+	<li id="menu-item-835" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-835"><a target="_blank" rel="noopener" href="https://standardmedia.com/?klkn" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="49" id="menu-item-link-835">Standard Media Group</a></li>
+</ul>
+</li>
+<li id="menu-item-3024311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3024311"><a href="https://www.klkntv.com/nowlocalnewsapp/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="50" id="menu-item-link-3024311">NOW Local News App</a></li>
+</ul></div><p class="mobile-nav-title">Eyebrow Menu</p><div class="menu-side"><ul id="menu-eyebrow-menu" class="menu"><li id="menu-item-838" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-838"><a href="https://www.klkntv.com/news/submit-your-news/" data-menu-title="eyebrow-menu" data-menu-count="6" data-menu-index="1" id="menu-item-link-838">Submit News</a></li>
+<li id="menu-item-841" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-841"><a href="https://www.klkntv.com/about/apps/" data-menu-title="eyebrow-menu" data-menu-count="6" data-menu-index="2" id="menu-item-link-841">KLKN Apps</a></li>
+<li id="menu-item-844" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-844"><a href="https://www.facebook.com/klkntv" data-menu-title="eyebrow-menu" data-menu-count="6" data-menu-index="3" id="menu-item-link-844"><i class="fa fa-facebook-square"></i></a></li>
+<li id="menu-item-847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-847"><a href="http://www.twitter.com/channel8abc" data-menu-title="eyebrow-menu" data-menu-count="6" data-menu-index="4" id="menu-item-link-847"><i class="fa fa-twitter-square"></i></a></li>
+<li id="menu-item-850" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-850"><a href="https://www.youtube.com/channel/UCIFxvmtoGMb5wd-XLuqDJjQ" data-menu-title="eyebrow-menu" data-menu-count="6" data-menu-index="5" id="menu-item-link-850"><i class="fa fa-youtube icon"></i></a></li>
+<li id="menu-item-340393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-340393"><a href="https://www.instagram.com/channel8klkntv/" data-menu-title="eyebrow-menu" data-menu-count="6" data-menu-index="6" id="menu-item-link-340393"><i class="fa fa-instagram icon"></i></a></li>
+</ul></div>		</div>
+		<div id="page-wrap">
+			<header class="header " role="banner" itemscope itemtype="http://schema.org/WPHeader">
+				<div class="container-fluid">
+					<div class="logo-wrapper">
+						<div class="wrap">
+														<a href="https://www.klkntv.com" id="company-logo" style="background-image: url('https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/04/l/s/nebraska-now-150x70-c.png');">KLKN-TV</a>
+						</div>
+					</div>
+				
+					<div class="mobile-button-wrapper">
+						<div class="wrap">
+							<i class="fa fa-bars fa-2x menu-button" id="open-button"></i>
+						</div>
+					</div>
+
+					<div class="search-form-wrapper">
+						<div class="wrap">
+							<form role="search" method="get" id="searchform" class="searchform" action="https://www.klkntv.com/" >
+	<label for="site-search" class="sr-only">Search</label>
+	<input type="text" value="" name="s" id="site-search">
+	<button type="submit" aria-label="Submit Search">
+		<i class="fa fa-search"></i>
+	</button>
+	</form>						</div>
+					</div>
+			
+											<div class="utility-nav-wrapper">
+							<div class="wrap">
+								<nav class="utility" role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+									<ul id="menu-eyebrow-menu-1" class="nav top-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-838"><a href="https://www.klkntv.com/news/submit-your-news/" data-menu-title="eyebrow-menu" data-menu-count="6" data-menu-index="1" id="menu-item-link-838">Submit News</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-841"><a href="https://www.klkntv.com/about/apps/" data-menu-title="eyebrow-menu" data-menu-count="6" data-menu-index="2" id="menu-item-link-841">KLKN Apps</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-844"><a href="https://www.facebook.com/klkntv" data-menu-title="eyebrow-menu" data-menu-count="6" data-menu-index="3" id="menu-item-link-844"><i class="fa fa-facebook-square"></i></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-847"><a href="http://www.twitter.com/channel8abc" data-menu-title="eyebrow-menu" data-menu-count="6" data-menu-index="4" id="menu-item-link-847"><i class="fa fa-twitter-square"></i></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-850"><a href="https://www.youtube.com/channel/UCIFxvmtoGMb5wd-XLuqDJjQ" data-menu-title="eyebrow-menu" data-menu-count="6" data-menu-index="5" id="menu-item-link-850"><i class="fa fa-youtube icon"></i></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-340393"><a href="https://www.instagram.com/channel8klkntv/" data-menu-title="eyebrow-menu" data-menu-count="6" data-menu-index="6" id="menu-item-link-340393"><i class="fa fa-instagram icon"></i></a></li>
+</ul>								</nav>
+							</div>
+						</div>
+								
+											<div class="primary-nav-wrapper">
+							<div class="wrap">
+								<nav class="primary" data-nav-obj='{\"term_id\":19,\"name\":\"Main Navigation\",\"slug\":\"main-navigation\",\"term_group\":0,\"term_taxonomy_id\":19,\"taxonomy\":\"nav_menu\",\"description\":\"\",\"parent\":0,\"count\":50,\"filter\":\"raw\",\"term_order\":\"0\"}' role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+									<ul id="menu-main-navigation-1" class="nav top-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-721"><a href="https://www.klkntv.com/news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="1" id="menu-item-link-721">News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-334999"><a href="http://klkntv.com/news/local-news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="2" id="menu-item-link-334999">Local News</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-727"><a href="https://www.klkntv.com/news/nebraska-news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="3" id="menu-item-link-727">Nebraska News</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1499597"><a href="https://www.klkntv.com/news/nebraska-news/capitol-news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="4" id="menu-item-link-1499597">Capitol News</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-733"><a href="https://www.klkntv.com/news/us-world-news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="5" id="menu-item-link-733">US &#038; World News</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3100649"><a href="https://www.klkntv.com/2024-election-news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="6" id="menu-item-link-3100649">2024 Election News</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2924126"><a href="https://www.klkntv.com/news/entertainment-news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="7" id="menu-item-link-2924126">Entertainment News</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2954902"><a href="https://www.klkntv.com/channel-8-poll-of-the-day/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="8" id="menu-item-link-2954902">Poll of the Day</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1403019"><a href="https://www.klkntv.com/best-of-nebraska-your-top-photos-of-the-week/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="9" id="menu-item-link-1403019">Photos of the Week</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-366100"><a href="https://klkn.tv/lwm" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="10" id="menu-item-link-366100">Links We Mentioned</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-745"><a href="https://www.klkntv.com/news/alerts-sign-up/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="11" id="menu-item-link-745">Get News Alerts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-748"><a href="https://www.klkntv.com/news/submit-your-news/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="12" id="menu-item-link-748">Submit Your News</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3333713"><a href="https://www.klkntv.com/2024-total-solar-eclipse/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="13" id="menu-item-link-3333713">2024 Total Solar Eclipse</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-751"><a href="https://www.klkntv.com/weather/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="14" id="menu-item-link-751">Weather</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-754"><a href="https://www.klkntv.com/weather/10-day-outlook/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="15" id="menu-item-link-754">10-Day Outlook</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-772"><a href="https://www.klkntv.com/weather/radar/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="16" id="menu-item-link-772">Weather Radar</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-757"><a href="https://www.klkntv.com/weather/school-closings/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="17" id="menu-item-link-757">Closings &#038; Delays</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-760"><a href="https://www.klkntv.com/weather/flight-tracker/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="18" id="menu-item-link-760">Flight Tracker</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-769"><a href="https://www.klkntv.com/weather/power-outages/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="19" id="menu-item-link-769">Power Outages</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-775"><a href="https://www.klkntv.com/weather/submit-your-photos/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="20" id="menu-item-link-775">Your Weather Photos</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2590967"><a href="https://www.klkntv.com/nebraska-weather-cameras/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="21" id="menu-item-link-2590967">Nebraska Weather Cameras</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-886"><a href="https://www.klkntv.com/sports/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="22" id="menu-item-link-886">Sports</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-895"><a href="https://www.klkntv.com/sports/husker-sports/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="23" id="menu-item-link-895">Husker Sports</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-889"><a href="https://www.klkntv.com/sports/high-school/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="24" id="menu-item-link-889">High School Sports</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-787"><a href="https://www.klkntv.com/community/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="25" id="menu-item-link-787">Community</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-820747"><a href="https://www.klkntv.com/showcase-nebraska/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="26" id="menu-item-link-820747">Showcase Nebraska</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2925059"><a href="https://www.klkntv.com/community/contests/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="27" id="menu-item-link-2925059">KLKN Contests</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-674622"><a href="https://www.klkntv.com/midday-interviews/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="28" id="menu-item-link-674622">Midday Interviews</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-790"><a href="https://www.klkntv.com/community/calendar-events/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="29" id="menu-item-link-790">Community Calendar Events</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-802"><a href="https://www.klkntv.com/watch/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="30" id="menu-item-link-802">Watch</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-305875"><a href="https://www.klkntv.com/watch/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="31" id="menu-item-link-305875">Live Newscasts</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1565866"><a href="https://www.klkntv.com/live2/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="32" id="menu-item-link-1565866">Live News Events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2590972"><a href="https://www.klkntv.com/nebraska-weather-cameras/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="33" id="menu-item-link-2590972">Nebraska Weather Cameras</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-811"><a href="https://www.klkntv.com/watch/video/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="34" id="menu-item-link-811">Video</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-808"><a href="https://www.klkntv.com/watch/tv-schedule/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="35" id="menu-item-link-808">TV Schedule</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1092968"><a href="https://www.klkntv.com/watch/apps/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="36" id="menu-item-link-1092968">Channel 8 Apps</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-814"><a href="https://www.klkntv.com/about/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="37" id="menu-item-link-814">About</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-820"><a href="https://www.klkntv.com/about/news-team-bios/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="38" id="menu-item-link-820">Channel 8 News Team</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508823"><a href="https://www.klkntv.com/about/advertise/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="39" id="menu-item-link-508823">Advertise With Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-817"><a href="https://www.klkntv.com/about/careers/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="40" id="menu-item-link-817">Careers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-823"><a href="https://www.klkntv.com/about/closed-captioning/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="41" id="menu-item-link-823">Closed Captioning</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-826"><a href="https://www.klkntv.com/about/dmca-agent/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="42" id="menu-item-link-826">DMCA Agent</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-832"><a target="_blank" rel="noopener" href="https://publicfiles.fcc.gov/tv-profile/KLKN" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="43" id="menu-item-link-832">FCC Public File</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322853"><a href="https://www.klkntv.com/about/fcc-applications/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="44" id="menu-item-link-322853">FCC Applications</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-322855"><a href="https://publicfiles.fcc.gov/tv-profile/klkn/programs-list/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="45" id="menu-item-link-322855">Children&#8217;s TV Report</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-414737"><a href="https://www.klkntv.com/eeo-report/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="46" id="menu-item-link-414737">EEO Report</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299941"><a href="https://www.klkntv.com/about/terms-of-use/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="47" id="menu-item-link-299941">Terms of Use</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-299944"><a href="https://www.klkntv.com/about/privacy-policy/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="48" id="menu-item-link-299944">Privacy Policy</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-835"><a target="_blank" rel="noopener" href="https://standardmedia.com/?klkn" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="49" id="menu-item-link-835">Standard Media Group</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3024311"><a href="https://www.klkntv.com/nowlocalnewsapp/" data-menu-title="main-navigation" data-menu-count="50" data-menu-index="50" id="menu-item-link-3024311">NOW Local News App</a></li>
+</ul>								</nav>
+							</div>
+						</div>
+										
+					
+																								<div class="eyebrow-text" id="header-content-0">
+								<div class="wrap">
+									Nebraska News								</div>
+							</div>
+																						</div>
+				
+			
+			</header>
+				<div id="container">
+	<div id="content" class="customtemplatewrapper container-fluid">
+		<div id="inner-content" class="row">
+			<div class="wrapper-top-row col-12">
+				<div class="templatera_shortcode"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><script type="text/javascript">gtx_ads_conf.ads["ad-manager-190-2"]= {"custom_css":[],"ad_details":[{"min_width":"768","max_width":"","dfp_ad_sizes":[{"dfp_ad_width":"728","dfp_ad_height":"90"}]},{"min_width":"","max_width":"767","dfp_ad_sizes":[{"dfp_ad_width":"320","dfp_ad_height":"50"}]}],"ad_id":"190","ad_container":"div-ad-manager-190-2","ad_placement":"banner","ad_name":"ad-manager-190-2","position":"","article_position":"","out_of_page_ad":null,"lazyload":"global"};</script>
+		<div class="ad-manager-placeholder " id="ad-manager-190-2" data-ad-id="190">
+				<div id="wrapper-div-ad-manager-190-2" style="" class="gtx-ad-wrapper gtx-dfp-ad-wrapper ">
+					<div id="div-ad-manager-190-2" class="gtx-dfp-ad-inner-wrapper">
+						
+		<script type="text/javascript">
+			var slotData = {
+				slotID: "ad-manager-190-2",
+				slotName: "/132916964,22666483375/klkntv.com/nebraska-news",
+				placement: "banner",
+				position: "",
+				sizes: [[728,90],[320,50]],
+				mapkeys: [[768,99999],[0,767]],
+				mapbreaks: [[[728,90]],[[320,50]]],
+				adName: "ad-manager-190-2",
+				adContainer: "div-ad-manager-190-2",
+				outOfPage: 0,
+				optimera: 0,
+				lazyload: 0
+			}
+			gtx_ads_conf.lazy.push(slotData);
+		</script>
+					</div>
+				</div>
+		</div><script type="text/javascript">gtx_ads_conf.ads["ad-manager-214-2"]= {"custom_css":[],"ad_details":[{"min_width":"","max_width":"","dfp_ad_sizes":[{"dfp_ad_width":"1","dfp_ad_height":"1"}]}],"ad_id":"214","ad_container":"div-ad-manager-214-2","ad_placement":"pixel","ad_name":"ad-manager-214-2","position":"","article_position":"","out_of_page_ad":null,"lazyload":"global"};</script>
+		<div class="ad-manager-placeholder " id="ad-manager-214-2" data-ad-id="214">
+				<div id="wrapper-div-ad-manager-214-2" style="" class="gtx-ad-wrapper gtx-dfp-ad-wrapper ">
+					<div id="div-ad-manager-214-2" class="gtx-dfp-ad-inner-wrapper">
+						
+		<script type="text/javascript">
+			var slotData = {
+				slotID: "ad-manager-214-2",
+				slotName: "/132916964,22666483375/klkntv.com/nebraska-news",
+				placement: "pixel",
+				position: "",
+				sizes: [[1,1]],
+				mapkeys: [[0,99999]],
+				mapbreaks: [[[1,1]]],
+				adName: "ad-manager-214-2",
+				adContainer: "div-ad-manager-214-2",
+				outOfPage: 0,
+				optimera: 0,
+				lazyload: 0
+			}
+			gtx_ads_conf.lazy.push(slotData);
+		</script>
+					</div>
+				</div>
+		</div><div id="sticky-anchor"><script type="text/javascript">gtx_ads_conf.ads["ad-manager-961114-2"]= {"custom_css":[],"out_of_page_ad":false,"lazyload":"global","ad_details":[{"min_width":"","max_width":"767","dfp_ad_sizes":[{"dfp_ad_width":"320","dfp_ad_height":"50"},{"dfp_ad_width":"300","dfp_ad_height":"50"}]},{"min_width":"768","max_width":"","dfp_ad_sizes":[{"dfp_ad_width":"728","dfp_ad_height":"90"},{"dfp_ad_width":"970","dfp_ad_height":"90"}]}],"ad_id":"961114","ad_container":"div-ad-manager-961114-2","ad_placement":"sticky-anchor","ad_name":"ad-manager-961114-2","position":"","article_position":""};</script>
+		<div class="ad-manager-placeholder " id="ad-manager-961114-2" data-ad-id="961114">
+				<div id="wrapper-div-ad-manager-961114-2" style="" class="gtx-ad-wrapper gtx-dfp-ad-wrapper ">
+					<div id="div-ad-manager-961114-2" class="gtx-dfp-ad-inner-wrapper">
+						
+		<script type="text/javascript">
+			var slotData = {
+				slotID: "ad-manager-961114-2",
+				slotName: "/132916964,22666483375/klkntv.com/nebraska-news",
+				placement: "sticky-anchor",
+				position: "",
+				sizes: [[320,50],[300,50],[728,90],[970,90]],
+				mapkeys: [[0,767],[768,99999]],
+				mapbreaks: [[[320,50],[300,50]],[[728,90],[970,90]]],
+				adName: "ad-manager-961114-2",
+				adContainer: "div-ad-manager-961114-2",
+				outOfPage: 0,
+				optimera: 0,
+				lazyload: 0
+			}
+			gtx_ads_conf.lazy.push(slotData);
+		</script>
+					</div>
+				</div>
+		</div></div></div></div></div></div></div>			</div>
+			<main id="main" class="col-sm-12 col-12 col-md-8" role="main" itemscope itemprop="mainContentOfPage" itemtype="http://schema.org/WebPageElement">
+	<article id="post-3491244" class="cf post-3491244 post type-post status-publish format-standard has-post-thumbnail hentry category-nebraska-news category-news category-top-stories tag-blue-green-algae tag-harmful-algal-blooms tag-iron-horse-lake-trail tag-maskenthine-reservoir tag-nebraska tag-nebraska-department-of-environment-and-energy tag-pawnee-county tag-stanton-county post_content_term-contains-video has-video type-video single editable  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3491244"><div class="basic-content-wrap cf">		<div class="basic-content-wrap cf">
+					<h1 class="entry-title">Toxic blue-green algae found in two Nebraska lakes</h1>
+						<div class="entry-meta-wrapper">
+					<div class="entry-meta entry-date">
+			<time class="updated entry-time" itemprop="datePublished">June 13, 2024 3:22 pm</time>
+		</div>
+									<div class="entry-meta entry-author multiple-bylines">
+						<span class="by"></span> 
+																												<a href="https://www.klkntv.com/author/mfischer/">Mark Fischer</a><span class="author-sep">, </span>
+																		</div>
+						</div>
+		<p><script>
+var field59 = field59 || {};
+field59.ipo = {
+    "global": {
+        "dfpConfig": {
+			"prerollTemplate":"https://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/132916964,22666483375/klkntv.com/nebraska-news&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vast&vpos=preroll&unviewed_position_start=1&correlator=1718547941&cust_params=category=Nebraska%20News%2CNews%2CTop%20Stories&video_position=1&url=https%3A%2F%2Fwww.klkntv.com%2Ftoxic-blue-green-algae-found-in-two-nebraska-lakes%2F&post=3491244&vpmute=1&plcmt=1&trt=2&hl=en"
+		}                    }
+};
+</script>
+<script src="https://player.field59.com/v4/vp/KLKN/91b4540a6471d516b84501104a37cc8a279aafa9"></script></p>
+<p>LINCOLN, Neb. (KLKN) &#8211; The State of Nebraska has issued a health alert for toxic blue-green algae in two lakes.</p>
+<p>Harmful algal blooms are affecting the Iron Horse Trail Lake in Pawnee County and Maskenthine Reservoir in Stanton County.</p>
+<p>Samples taken earlier this week indicated that the toxin level given off by the algae is higher than normal, according to officials.</p>
+<blockquote><p><em>SEE ALSO: </em><a href="https://www.klkntv.com/beach-at-nebraskas-harlan-county-reservoir-closes-due-to-e-coli/"><strong>Beach at Nebraska’s Harlan County Reservoir closes due to E. coli</strong></a></p></blockquote>
+<p>The Nebraska Department of Environment and Energy said signs have been posted at the lakes to notify the public.</p>
+<p>Recreational boating and fishing are still allowed, but swallowing or any kind of exposure to the water can be dangerous.</p>
+<p>Officials said to keep your pets away from the water.</p>
+<p>People can still use the public areas for camping, picnics and other outdoor activities.	</p>
+<div class="article-categories-tags">
+<div class="article-categories">
+				<span class="article-taxonomy-label article-taxonomy-label-categories">Categories<span class="colon">:</span></span> <a class="article-taxonomy" data-taxonomy-type="category" data-mp-link-type="article taxonomies" href="https://www.klkntv.com/category/nebraska-news/" rel="category tag">Nebraska News</a><span class="comma">,</span> <a class="article-taxonomy" data-taxonomy-type="category" data-mp-link-type="article taxonomies" href="https://www.klkntv.com/category/news/" rel="category tag">News</a><span class="comma">,</span> <a class="article-taxonomy" data-taxonomy-type="category" data-mp-link-type="article taxonomies" href="https://www.klkntv.com/category/top-stories/" rel="category tag">Top Stories</a>			</div>
+<div class="article-tags">
+				<span class="article-taxonomy-label article-taxonomy-label-tags">Tags<span class="colon">:</span></span> <a class="article-taxonomy" data-taxonomy-type="tag" data-mp-link-type="article taxonomies" href="https://www.klkntv.com/tag/blue-green-algae/" rel="tag">blue green algae</a><span class="comma">,</span> <a class="article-taxonomy" data-taxonomy-type="tag" data-mp-link-type="article taxonomies" href="https://www.klkntv.com/tag/harmful-algal-blooms/" rel="tag">harmful algal blooms</a><span class="comma">,</span> <a class="article-taxonomy" data-taxonomy-type="tag" data-mp-link-type="article taxonomies" href="https://www.klkntv.com/tag/iron-horse-lake-trail/" rel="tag">iron horse lake trail</a><span class="comma">,</span> <a class="article-taxonomy" data-taxonomy-type="tag" data-mp-link-type="article taxonomies" href="https://www.klkntv.com/tag/maskenthine-reservoir/" rel="tag">Maskenthine Reservoir</a><span class="comma">,</span> <a class="article-taxonomy" data-taxonomy-type="tag" data-mp-link-type="article taxonomies" href="https://www.klkntv.com/tag/nebraska/" rel="tag">Nebraska</a><span class="comma">,</span> <a class="article-taxonomy" data-taxonomy-type="tag" data-mp-link-type="article taxonomies" href="https://www.klkntv.com/tag/nebraska-department-of-environment-and-energy/" rel="tag">Nebraska Department of Environment and Energy</a><span class="comma">,</span> <a class="article-taxonomy" data-taxonomy-type="tag" data-mp-link-type="article taxonomies" href="https://www.klkntv.com/tag/pawnee-county/" rel="tag">Pawnee County</a><span class="comma">,</span> <a class="article-taxonomy" data-taxonomy-type="tag" data-mp-link-type="article taxonomies" href="https://www.klkntv.com/tag/stanton-county/" rel="tag">Stanton County</a>			</div></div>
+<!-- Simple Share Buttons Adder (7.6.21) simplesharebuttons.com --><div class="ssba-modern-2 ssba ssbp-wrap center ssbp--theme-2"><div style="text-align:center"><ul class="ssbp-list"><li class="ssbp-li--facebook"><a data-site="" class="ssba_facebook_share ssbp-facebook ssbp-btn" href="http://www.facebook.com/sharer.php?u=https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/"  target="_blank" ><div title="Facebook" class="ssbp-text">Facebook</div></a></li><li class="ssbp-li--pinterest"><a data-site='pinterest' class='ssba_pinterest_share ssbp-pinterest ssbp-btn' href='javascript:void((function()%7Bvar%20e=document.createElement(&apos;script&apos;);e.setAttribute(&apos;type&apos;,&apos;text/javascript&apos;);e.setAttribute(&apos;charset&apos;,&apos;UTF-8&apos;);e.setAttribute(&apos;src&apos;,&apos;//assets.pinterest.com/js/pinmarklet.js?r=&apos;+Math.random()*99999999);document.body.appendChild(e)%7D)());'><div title="Pinterest" class="ssbp-text">Pinterest</div></a></li><li class="ssbp-li--twitter"><a data-site="" class="ssba_twitter_share ssbp-twitter ssbp-btn" href="http://twitter.com/share?url=https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/&amp;text=Toxic%20blue-green%20algae%20found%20in%20two%20Nebraska%20lakes%20"  target=&quot;_blank&quot; ><div title="Twitter" class="ssbp-text">Twitter</div></a></li><li class="ssbp-li--linkedin"><a data-site="linkedin" class="ssba_linkedin_share ssba_share_link ssbp-linkedin ssbp-btn" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/"  target=&quot;_blank&quot; ><div title="Linkedin" class="ssbp-text">Linkedin</div></a></li></ul></div></div>	</div>
+</div></article>	<div class="wrapper-article-footer"><div class="templatera_shortcode"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_btn3-container vc_btn3-center" ><a class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-square vc_btn3-style-modern vc_btn3-block vc_btn3-color-primary" href="https://www.klkntv.com/watch/apps/" title="Download our app">Download the Channel 8 News app</a></div><style type="text/css" media="screen">
+
+.clt-297712 .thumb-wrap {
+	display: block;float: none;}
+
+	.clt-297712 .inner-thumb-wrap {
+		padding: 56.25% 0 0 0;
+	}			
+
+.content-primary-cat a {
+    font-size: 13px;
+}
+</style>
+
+<div class="wpb_wrapper">
+	<div class="wpb_content_element">
+		<div id="cl--297712" 
+			class="content-list-wrapper   clt-297712 content-list-grid cl-Grid cl-thumb-float-none landscape blurred-bg" 
+			data-cl-template="297712">
+
+            
+							<h2>Related</h2>
+											<div class="grid-wrapper col-span-4">
+		<div class="grid-size"></div>
+		<div class="gutter-size"></div>
+				
+			<div class="loop-wrapper articles"><article id="post-3493957" class="cf post-3493957 post type-post status-publish format-standard has-post-thumbnail hentry category-lancaster category-nebraska-news category-news tag-31-street tag-curtis-street tag-douglas-county-youth-center tag-law-enforcement tag-lincoln tag-lincoln-police-department tag-lpd tag-nebraska-state-patrol tag-omaha tag-omaha-police-department tag-opd tag-opd-k9 tag-stolen-car tag-teenagers tag-traffic-stop tag-youth-rehabilitation-and-treatment-facility single editable post  grid-item  hundred-perc-width  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3493957"><div class="basic-content-wrap cf">                            <div class="thumb-wrap thumb-float-none crop">
+                                <a href="https://www.klkntv.com/teen-inmates-caught-with-stolen-vehicle-after-pursuit-state-patrol-says/" target="_self">
+                                    <div class="inner-thumb-wrap landscape">
+                                                                                <figure>
+                                            <img src="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/t/a/20240614-233432-1024x768.jpg"
+                                                width="770"
+                                                height="578"
+                                                sizes="(max-width: 400px) 100vw, (max-width: 768px) 50vw, 33vw" 
+                                                srcset="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/t/a/20240614-233432-1024x768.jpg 1024w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/t/a/20240614-233432-300x225.jpg 300w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/t/a/20240614-233432-768x576.jpg 768w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/t/a/20240614-233432-1536x1152.jpg 1536w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/t/a/20240614-233432-2048x1536.jpg 2048w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/t/a/20240614-233432-200x150.jpg 200w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/t/a/20240614-233432-480x360.jpg 480w"
+                                                alt="20240614 233432"
+                                                 data-aspectratio="16:9"  data-crop="1"                                                 class="post-thumb attachment-large size-large"/>
+                                            <div class="overlay"></div>
+                                        </figure>
+                                    </div>
+                                </a>
+                            </div>
+                        <div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/teen-inmates-caught-with-stolen-vehicle-after-pursuit-state-patrol-says/" target="_self" rel="bookmark" title="Teen inmates caught with stolen vehicle after pursuit, state patrol says">Teen inmates caught with stolen vehicle after pursuit, state patrol says</a></h3></div></div></article><article id="post-3492776" class="cf post-3492776 post type-post status-publish format-standard has-post-thumbnail hentry category-nebraska-news category-news category-sports category-top-stories tag-clint-lyons tag-college-world-series tag-college-world-series-fans tag-cws tag-cws-fans tag-fans tag-friends tag-friendship tag-heather-soles tag-jerry-soles tag-kristi-lyons tag-lyons tag-nebraska tag-noah-soles tag-north-carolina-state tag-north-carolina-state-wolfpack tag-shortstop tag-soles tag-tailgate tag-tailgating tag-wolfpack post_content_term-contains-video has-video type-video single editable post  grid-item  hundred-perc-width  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3492776"><div class="basic-content-wrap cf">                            <div class="thumb-wrap thumb-float-none crop">
+                                <a href="https://www.klkntv.com/a-helping-hand-leads-to-a-lifelong-friendship-at-the-college-world-series/" target="_self">
+                                    <div class="inner-thumb-wrap landscape">
+                                                                                <figure>
+                                            <img src="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/s/f/img-0730.jpeg"
+                                                width="770"
+                                                height="578"
+                                                sizes="(max-width: 400px) 100vw, (max-width: 768px) 50vw, 33vw" 
+                                                srcset="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/s/f/img-0730.jpeg 800w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/s/f/img-0730-300x225.jpeg 300w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/s/f/img-0730-768x576.jpeg 768w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/s/f/img-0730-200x150.jpeg 200w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/s/f/img-0730-480x360.jpeg 480w"
+                                                alt="courtesy Jerry Soles"
+                                                 data-aspectratio="16:9"  data-crop="1"                                                 class="post-thumb attachment-large size-large"/>
+                                            <div class="overlay"></div>
+                                        </figure>
+                                    </div>
+                                </a>
+                            </div>
+                        <div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/a-helping-hand-leads-to-a-lifelong-friendship-at-the-college-world-series/" target="_self" rel="bookmark" title="A helping hand leads to a lifelong friendship at the College World Series">A helping hand leads to a lifelong friendship at the College World Series</a></h3></div></div></article><article id="post-3491929" class="cf post-3491929 post type-post status-publish format-standard has-post-thumbnail hentry category-nebraska-news category-news tag-dollar-general tag-genoa tag-grand-island tag-indecent-exposure tag-jason-hancock tag-naked tag-nebraska tag-pump-and-pantry tag-silver-creek single editable post  grid-item  hundred-perc-width  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3491929"><div class="basic-content-wrap cf">                            <div class="thumb-wrap thumb-float-none crop">
+                                <a href="https://www.klkntv.com/naked-nebraska-man-arrested-after-pumping-gas-without-paying/" target="_self">
+                                    <div class="inner-thumb-wrap landscape">
+                                                                                <figure>
+                                            <img src="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/z/u/mgn-1280x720-80224c00-umabs-1024x576.jpg"
+                                                width="770"
+                                                height="433"
+                                                sizes="(max-width: 400px) 100vw, (max-width: 768px) 50vw, 33vw" 
+                                                srcset="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/z/u/mgn-1280x720-80224c00-umabs-1024x576.jpg 1024w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/z/u/mgn-1280x720-80224c00-umabs-300x169.jpg 300w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/z/u/mgn-1280x720-80224c00-umabs-768x432.jpg 768w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/z/u/mgn-1280x720-80224c00-umabs-200x113.jpg 200w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/z/u/mgn-1280x720-80224c00-umabs-640x360.jpg 640w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/z/u/mgn-1280x720-80224c00-umabs.jpg 1280w"
+                                                alt="Indecent exposure graphic"
+                                                 data-aspectratio="16:9"  data-crop="1"                                                 class="post-thumb attachment-large size-large"/>
+                                            <div class="overlay"></div>
+                                        </figure>
+                                    </div>
+                                </a>
+                            </div>
+                        <div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/naked-nebraska-man-arrested-after-pumping-gas-without-paying/" target="_self" rel="bookmark" title="Naked Nebraska man arrested after pumping gas without paying">Naked Nebraska man arrested after pumping gas without paying</a></h3></div></div></article><article id="post-3491817" class="cf post-3491817 post type-post status-publish format-standard has-post-thumbnail hentry category-capitol-news category-election-news category-nebraska-news category-news category-top-stories tag-2024-ballot-initiative tag-abortion tag-abortion-rights tag-abortion-vote tag-ballot tag-human-life-protection tag-july-3 tag-mo tag-mo-neal tag-nebraska tag-now-choose-life tag-protect-our-rights tag-protect-women-and-children tag-right-to-life tag-voting tag-walter tag-walter-oneal post_content_term-contains-video has-video type-video single editable post  grid-item  hundred-perc-width  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3491817"><div class="basic-content-wrap cf">                            <div class="thumb-wrap thumb-float-none crop">
+                                <a href="https://www.klkntv.com/four-ballot-initiatives-in-nebraska-tackle-abortion-in-their-own-way/" target="_self">
+                                    <div class="inner-thumb-wrap landscape">
+                                                                                <figure>
+                                            <img src="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/b/c/ballot-signature-1024x576.png"
+                                                width="770"
+                                                height="433"
+                                                sizes="(max-width: 400px) 100vw, (max-width: 768px) 50vw, 33vw" 
+                                                srcset="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/b/c/ballot-signature-1024x576.png 1024w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/b/c/ballot-signature-300x169.png 300w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/b/c/ballot-signature-768x432.png 768w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/b/c/ballot-signature-200x113.png 200w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/b/c/ballot-signature-640x360.png 640w, https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/2024/06/b/c/ballot-signature.png 1280w"
+                                                alt="Ballot Signature"
+                                                 data-aspectratio="16:9"  data-crop="1"                                                 class="post-thumb attachment-large size-large"/>
+                                            <div class="overlay"></div>
+                                        </figure>
+                                    </div>
+                                </a>
+                            </div>
+                        <div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/four-ballot-initiatives-in-nebraska-tackle-abortion-in-their-own-way/" target="_self" rel="bookmark" title="Four ballot initiatives in Nebraska tackle abortion in their own way">Four ballot initiatives in Nebraska tackle abortion in their own way</a></h3></div></div></article></div>								</div>                
+                    </div>
+
+			</div>
+</div>
+
+</div></div></div></div><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_raw_js" >
+		<div class="wpb_wrapper">
+			<div id="rc-widget-54305b" data-rc-widget data-widget-host="habitat" data-endpoint="//trends.revcontent.com" data-widget-id="267205"></div>
+<script type="text/javascript" src="https://assets.revcontent.com/master/delivery.js" target="_blank" defer="defer"></script>
+		</div>
+	</div>
+</div></div></div></div></div></div></main>			
+			<!-- SIDEBAR (empty by default) -->
+							<div id="sidebar1" class="sidebar col-sm-12 col-12 col-md-4" role="complementary">
+			<div class="wrapper-right-rail">
+				<div class="templatera_shortcode"><p><div class="vc_row wpb_row vc_row-fluid"><div class="right-rail wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><style type="text/css" media="screen">
+.clt-18 .thumb-wrap {
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+@media only screen and (min-width: 52em) {
+    .clt-18 .thumb-wrap {
+        width: 30%;
+        margin: 0 20px 0 0;
+    }
+}
+
+.clt-18 .thumb-wrap {
+	display: block;float: left;}
+
+
+.content-primary-cat a {
+    font-size: 13px;
+}
+</style>
+
+<div class="wpb_wrapper">
+	<div class="wpb_content_element">
+		<div id="cl-12-18" 
+			class="content-list-wrapper most-popular-module  clt-18 content-list-basic cl-Basic cl-thumb-float-left square " 
+			data-cl-template="18">
+
+            
+							<h2>Most Viewed</h2>
+						
+			<div class="loop-wrapper articles"><article id="post-3491980" class="cf post-3491980 post type-post status-publish format-standard has-post-thumbnail hentry category-lancaster category-news category-top-stories tag-ali-al-baaj tag-drowning tag-holmes-lake tag-lincoln-north-star tag-lincoln-north-star-high-school tag-lincoln-public-schools tag-lps tag-megan-kroll tag-memorial-services tag-teen post_content_term-contains-video has-video type-video single editable post  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3491980"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/lincoln-teen-who-drowned-while-swimming-in-holmes-lake-is-identified/" target="_self" rel="bookmark" title="Lincoln teen who drowned while swimming in Holmes Lake is identified">Lincoln teen who drowned while swimming in Holmes Lake is identified</a></h3></div></div></article><article id="post-3491808" class="cf post-3491808 post type-post status-publish format-standard has-post-thumbnail hentry category-lancaster category-news category-top-stories tag-16-year-old tag-16-year-old-boy tag-accidental tag-accidental-death tag-boy tag-first-responders tag-holmes-lake tag-lake tag-lfr tag-lincoln-fire-rescue tag-lincoln-police-department tag-nebraska-state-patrol tag-swimmer tag-teen tag-teenager tag-water-rescue tag-water-rescue-call post_content_term-contains-video has-video type-video single editable post  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3491808"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/lfr-sent-to-holmes-lake-on-water-rescue-call/" target="_self" rel="bookmark" title="16-year-old's body found at Holmes Lake after water rescue call">16-year-old's body found at Holmes Lake after water rescue call</a></h3></div></div></article><article id="post-3488817" class="cf post-3488817 post type-post status-publish format-standard has-post-thumbnail hentry category-nebraska-news category-news tag-aircraft tag-barry-hinkle tag-faa tag-federal-aviation-administration tag-felony tag-laser tag-laser-pointer tag-laser-strikes tag-law-enforcement tag-nebraska-state-patrol tag-nsp tag-pilot tag-pilots post_content_term-contains-video has-video type-video single editable post  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3488817"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/laser-strikes-target-nebraska-state-patrol-pilots/" target="_self" rel="bookmark" title="Laser strikes target Nebraska State Patrol pilots">Laser strikes target Nebraska State Patrol pilots</a></h3></div></div></article><article id="post-3491244" class="cf post-3491244 post type-post status-publish format-standard has-post-thumbnail hentry category-nebraska-news category-news category-top-stories tag-blue-green-algae tag-harmful-algal-blooms tag-iron-horse-lake-trail tag-maskenthine-reservoir tag-nebraska tag-nebraska-department-of-environment-and-energy tag-pawnee-county tag-stanton-county post_content_term-contains-video has-video type-video single editable post  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3491244"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/toxic-blue-green-algae-found-in-two-nebraska-lakes/" target="_self" rel="bookmark" title="Toxic blue-green algae found in two Nebraska lakes">Toxic blue-green algae found in two Nebraska lakes</a></h3></div></div></article><article id="post-3488508" class="cf post-3488508 post type-post status-publish format-standard has-post-thumbnail hentry category-lancaster category-news tag-84th-street tag-crash tag-developing-story tag-fatal-crash tag-glynoaks-drive tag-lincoln tag-nine-units tag-serious-crash post_content_term-contains-video has-video type-video single editable post  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3488508"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/lpd-investigating-fatal-crash-in-southeast-lincoln/" target="_self" rel="bookmark" title="LPD investigating fatal crash in southeast Lincoln">LPD investigating fatal crash in southeast Lincoln</a></h3></div></div></article></div>								                
+                    </div>
+
+			</div>
+</div>
+
+<script type="text/javascript">gtx_ads_conf.ads["ad-manager-217-4"]= {"custom_css":[],"ad_details":[{"min_width":"","max_width":"","dfp_ad_sizes":[{"dfp_ad_width":"300","dfp_ad_height":"250"},{"dfp_ad_width":"300","dfp_ad_height":"600"}]}],"ad_id":"217","ad_container":"div-ad-manager-217-4","ad_placement":"flex","ad_name":"ad-manager-217-4","position":"","article_position":"","out_of_page_ad":null,"lazyload":"global"};</script>
+		<div class="ad-manager-placeholder " id="ad-manager-217-4" data-ad-id="217">
+				<div id="wrapper-div-ad-manager-217-4" style="" class="gtx-ad-wrapper gtx-dfp-ad-wrapper ">
+					<div id="div-ad-manager-217-4" class="gtx-dfp-ad-inner-wrapper">
+						
+		<script type="text/javascript">
+			var slotData = {
+				slotID: "ad-manager-217-4",
+				slotName: "/132916964,22666483375/klkntv.com/nebraska-news",
+				placement: "flex",
+				position: "",
+				sizes: [[300,250],[300,600]],
+				mapkeys: [[0,99999]],
+				mapbreaks: [[[300,250],[300,600]]],
+				adName: "ad-manager-217-4",
+				adContainer: "div-ad-manager-217-4",
+				outOfPage: 0,
+				optimera: 0,
+				lazyload: 0
+			}
+			gtx_ads_conf.lazy.push(slotData);
+		</script>
+					</div>
+				</div>
+		</div><style type="text/css" media="screen">
+.clt-922 .thumb-wrap {
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+@media only screen and (min-width: 52em) {
+    .clt-922 .thumb-wrap {
+        width: 20%;
+        margin: 0 20px 0 0;
+    }
+}
+
+.clt-922 .thumb-wrap {
+	display: block;float: left;}
+
+	.clt-922 .inner-thumb-wrap {
+		padding: 100% 0 0 0;
+	}			
+
+.content-primary-cat a {
+    font-size: 13px;
+}
+</style>
+
+<div class="wpb_wrapper">
+	<div class="wpb_content_element">
+		<div id="cl-298147-922" 
+			class="content-list-wrapper   clt-922 content-list-basic cl-Basic cl-thumb-float-left square blurred-bg" 
+			data-cl-template="922">
+
+            
+							<h2>Featured</h2>
+						
+			<div class="loop-wrapper articles"><article id="post-1933127" class="cf post-1933127 gtx_link type-gtx_link status-publish hentry category-featured list editable gtx_link  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="1933127"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://smg.ai/nnontt" target="_blank" rel="bookmark" title="@NebraskaNow">@NebraskaNow</a></h3></div></div></article><article id="post-1933121" class="cf post-1933121 gtx_link type-gtx_link status-publish hentry category-featured list editable gtx_link  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="1933121"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://smg.ai/showcase" target="_blank" rel="bookmark" title="Showcase Nebraska">Showcase Nebraska</a></h3></div></div></article><article id="post-1933118" class="cf post-1933118 gtx_link type-gtx_link status-publish hentry category-featured list editable gtx_link  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="1933118"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://smg.ai/sbs" target="_blank" rel="bookmark" title="Small Business Saturday">Small Business Saturday</a></h3></div></div></article><article id="post-1933107" class="cf post-1933107 gtx_link type-gtx_link status-publish hentry category-featured list editable gtx_link  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="1933107"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://smg.ai/nebraska-cameras" target="_blank" rel="bookmark" title="Live Nebraska Cameras">Live Nebraska Cameras</a></h3></div></div></article><article id="post-365530" class="cf post-365530 post type-post status-publish format-standard has-post-thumbnail hentry category-featured category-news tag-channel-8 tag-klkn tag-lincoln tag-links-we-mentioned list editable post  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="365530"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/links-we-mentioned/" target="_self" rel="bookmark" title="Links We Mentioned">Links We Mentioned</a></h3></div></div></article></div>								                
+                    </div>
+
+			</div>
+</div>
+
+<script type="text/javascript">gtx_ads_conf.ads["ad-manager-217-5"]= {"custom_css":[],"ad_details":[{"min_width":"","max_width":"","dfp_ad_sizes":[{"dfp_ad_width":"300","dfp_ad_height":"250"},{"dfp_ad_width":"300","dfp_ad_height":"600"}]}],"ad_id":"217","ad_container":"div-ad-manager-217-5","ad_placement":"flex","ad_name":"ad-manager-217-5","position":"","article_position":"","out_of_page_ad":null,"lazyload":"global"};</script>
+		<div class="ad-manager-placeholder " id="ad-manager-217-5" data-ad-id="217">
+				<div id="wrapper-div-ad-manager-217-5" style="" class="gtx-ad-wrapper gtx-dfp-ad-wrapper ">
+					<div id="div-ad-manager-217-5" class="gtx-dfp-ad-inner-wrapper">
+						
+		<script type="text/javascript">
+			var slotData = {
+				slotID: "ad-manager-217-5",
+				slotName: "/132916964,22666483375/klkntv.com/nebraska-news",
+				placement: "flex",
+				position: "",
+				sizes: [[300,250],[300,600]],
+				mapkeys: [[0,99999]],
+				mapbreaks: [[[300,250],[300,600]]],
+				adName: "ad-manager-217-5",
+				adContainer: "div-ad-manager-217-5",
+				outOfPage: 0,
+				optimera: 0,
+				lazyload: 0
+			}
+			gtx_ads_conf.lazy.push(slotData);
+		</script>
+					</div>
+				</div>
+		</div><style type="text/css" media="screen">
+.clt-18 .thumb-wrap {
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+@media only screen and (min-width: 52em) {
+    .clt-18 .thumb-wrap {
+        width: 30%;
+        margin: 0 20px 0 0;
+    }
+}
+
+.clt-18 .thumb-wrap {
+	display: block;float: left;}
+
+
+.content-primary-cat a {
+    font-size: 13px;
+}
+</style>
+
+<div class="wpb_wrapper">
+	<div class="wpb_content_element">
+		<div id="cl-298102-18" 
+			class="content-list-wrapper   clt-18 content-list-basic cl-Basic cl-thumb-float-left square " 
+			data-cl-template="18">
+
+            
+							<h2>Entertainment News</h2>
+						
+			<div class="loop-wrapper articles"><article id="post-3488793" class="cf post-3488793 post type-post status-publish format-standard has-post-thumbnail hentry category-entertainment-on-klkntv-com category-lancaster category-news tag-back-to-the-future tag-beetlejuice tag-best-musical tag-box-office tag-broadway tag-february tag-hamilton tag-lied-center-for-performing-arts tag-lincoln tag-moulin-rouge tag-moulin-rouge-the-musical tag-the-little-mermaid tag-the-phantom-of-the-opera tag-tickets tag-tony-awards list editable post  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3488793"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/award-winning-broadway-musical-moulin-rouge-coming-to-lincoln/" target="_self" rel="bookmark" title="Award-winning Broadway musical 'Moulin Rouge!' coming to Lincoln">Award-winning Broadway musical 'Moulin Rouge!' coming to Lincoln</a></h3></div></div></article><article id="post-3463338" class="cf post-3463338 post type-post status-publish format-standard has-post-thumbnail hentry category-entertainment-on-klkntv-com category-nebraska-news category-news tag-box-office tag-heartlands-event-center tag-jamie-parr tag-lonesome-loser tag-nebraska-building tag-nebraska-state-fair tag-nebraska-state-fair-box-office tag-reminiscing tag-state-fair-website tag-the-guess-who tag-the-little-river-band tag-the-night-owls tag-three-dog-night list editable post  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3463338"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/the-little-river-band-replaces-the-guess-who-for-state-fair-concert-series/" target="_self" rel="bookmark" title="The Little River Band replaces The Guess Who for State Fair concert series">The Little River Band replaces The Guess Who for State Fair concert series</a></h3></div></div></article><article id="post-3443941" class="cf post-3443941 post type-post status-publish format-standard has-post-thumbnail hentry category-entertainment-on-klkntv-com category-lancaster category-news tag-asher-havon tag-bryan-olesen tag-christian-rock tag-christian-rock-band tag-coldplay tag-competition tag-instant-save tag-josh-sanders tag-karen-waldrup tag-lincoln tag-lincoln-berean-church tag-lincoln-man tag-nathan-chester tag-nbc tag-newsboys tag-performace tag-the-voice tag-tv tag-viva-la-vida post_content_term-contains-video has-video type-video list editable post  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3443941"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/lincolns-bryan-olesen-advances-to-the-last-round-of-the-voice/" target="_self" rel="bookmark" title="Lincoln's Bryan Olesen advances to the last round of 'The Voice'">Lincoln's Bryan Olesen advances to the last round of 'The Voice'</a></h3></div></div></article><article id="post-3441754" class="cf post-3441754 post type-post status-publish format-standard has-post-thumbnail hentry category-entertainment-on-klkntv-com category-lancaster category-news tag-aaron-watson tag-dear-evan-hansen tag-lied-center tag-lied-center-news tag-lincoln-concerts tag-lincoln-entertainment-news tag-lincoln-events tag-lincoln-news tag-lincoln-shows tag-lincolns-lied-center tag-metro-jazz-quintet tag-mystic-pizza-the-musical list editable post  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3441754"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/lincolns-lied-center-reveals-2024-25-schedule-for-35th-anniversary-season/" target="_self" rel="bookmark" title="Lincoln's Lied Center reveals 2024-25 schedule for 35th anniversary season">Lincoln's Lied Center reveals 2024-25 schedule for 35th anniversary season</a></h3></div></div></article><article id="post-3441688" class="cf post-3441688 post type-post status-publish format-standard has-post-thumbnail hentry category-entertainment-on-klkntv-com category-lancaster category-news tag-bryan-olesen tag-christian tag-christian-rock tag-christian-rock-band tag-lincoln tag-lincoln-berean-church tag-lincoln-singer tag-nbc tag-newsboys tag-semifinals tag-singer tag-the-voice list editable post  cf" role="article" itemscope="" itemtype="https://schema.org/Article" data-post-id="3441688"><div class="basic-content-wrap cf"><div class="entry-content-wrap"><h3 class="h3 entry-title"><a href="https://www.klkntv.com/lincolns-bryan-olesen-makes-it-to-semifinals-of-the-voice/" target="_self" rel="bookmark" title="Lincoln's Bryan Olesen makes it to semifinals of 'The Voice'">Lincoln's Bryan Olesen makes it to semifinals of 'The Voice'</a></h3></div></div></article></div>								                
+                    </div>
+
+			</div>
+</div>
+
+<script type="text/javascript">gtx_ads_conf.ads["ad-manager-217-6"]= {"custom_css":[],"ad_details":[{"min_width":"","max_width":"","dfp_ad_sizes":[{"dfp_ad_width":"300","dfp_ad_height":"250"},{"dfp_ad_width":"300","dfp_ad_height":"600"}]}],"ad_id":"217","ad_container":"div-ad-manager-217-6","ad_placement":"flex","ad_name":"ad-manager-217-6","position":"","article_position":"","out_of_page_ad":null,"lazyload":"global"};</script>
+		<div class="ad-manager-placeholder " id="ad-manager-217-6" data-ad-id="217">
+				<div id="wrapper-div-ad-manager-217-6" style="" class="gtx-ad-wrapper gtx-dfp-ad-wrapper ">
+					<div id="div-ad-manager-217-6" class="gtx-dfp-ad-inner-wrapper">
+						
+		<script type="text/javascript">
+			var slotData = {
+				slotID: "ad-manager-217-6",
+				slotName: "/132916964,22666483375/klkntv.com/nebraska-news",
+				placement: "flex",
+				position: "",
+				sizes: [[300,250],[300,600]],
+				mapkeys: [[0,99999]],
+				mapbreaks: [[[300,250],[300,600]]],
+				adName: "ad-manager-217-6",
+				adContainer: "div-ad-manager-217-6",
+				outOfPage: 0,
+				optimera: 0,
+				lazyload: 0
+			}
+			gtx_ads_conf.lazy.push(slotData);
+		</script>
+					</div>
+				</div>
+		</div></div></div></div></div></p>
+</div>			</div>
+		</div>
+					<div class="wrapper-bottom-row col-12">
+							</div>
+		</div>
+	</div>
+			</div><!-- // #container -->
+			
+
+			<footer class="footer" role="contentinfo" itemscope itemtype="http://schema.org/WPFooter">
+			
+				<div id="inner-footer" class="container">
+					<div class="row">
+														<div class="bucket col-sm-2 footer1">
+									<div id="nav_menu-2" class="widget widget_nav_menu"><h4 class="widgettitle">News</h4><div class="menu-news-container"><ul id="menu-news" class="menu"><li id="menu-item-937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-937"><a href="https://www.klkntv.com/news/" data-menu-title="news" data-menu-count="11" data-menu-index="1" id="menu-item-link-937">News</a></li>
+<li id="menu-item-955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-955"><a href="https://www.klkntv.com/news/local-news/" data-menu-title="news" data-menu-count="11" data-menu-index="2" id="menu-item-link-955">Local News</a></li>
+<li id="menu-item-940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-940"><a href="https://www.klkntv.com/news/nebraska-news/" data-menu-title="news" data-menu-count="11" data-menu-index="3" id="menu-item-link-940">Nebraska News</a></li>
+<li id="menu-item-366106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-366106"><a href="https://klkn.tv/lwm" data-menu-title="news" data-menu-count="11" data-menu-index="4" id="menu-item-link-366106">Links We Mentioned</a></li>
+<li id="menu-item-961" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-961"><a href="https://www.klkntv.com/news/nebraska-news/capitol-news/" data-menu-title="news" data-menu-count="11" data-menu-index="5" id="menu-item-link-961">Capitol News</a></li>
+<li id="menu-item-967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-967"><a href="https://www.klkntv.com/news/us-world-news/" data-menu-title="news" data-menu-count="11" data-menu-index="6" id="menu-item-link-967">US &#038; World News</a></li>
+<li id="menu-item-943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-943"><a href="https://www.klkntv.com/news/consumer-news/" data-menu-title="news" data-menu-count="11" data-menu-index="7" id="menu-item-link-943">Consumer</a></li>
+<li id="menu-item-952" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-952"><a href="https://www.klkntv.com/news/health-news/" data-menu-title="news" data-menu-count="11" data-menu-index="8" id="menu-item-link-952">Health News</a></li>
+<li id="menu-item-946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-946"><a href="https://www.klkntv.com/news/entertainment-news/" data-menu-title="news" data-menu-count="11" data-menu-index="9" id="menu-item-link-946">Entertainment News</a></li>
+<li id="menu-item-949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-949"><a href="https://www.klkntv.com/news/alerts-sign-up/" data-menu-title="news" data-menu-count="11" data-menu-index="10" id="menu-item-link-949">Get News Alerts</a></li>
+<li id="menu-item-964" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-964"><a href="https://www.klkntv.com/news/submit-your-news/" data-menu-title="news" data-menu-count="11" data-menu-index="11" id="menu-item-link-964">Submit Your News</a></li>
+</ul></div></div>								</div>
+															<div class="bucket col-sm-2 footer2">
+									<div id="nav_menu-4" class="widget widget_nav_menu"><h4 class="widgettitle">Local News</h4><div class="menu-local-news-container"><ul id="menu-local-news" class="menu"><li id="menu-item-1820526" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1820526"><a href="https://www.klkntv.com/category/fillmore/" data-menu-title="local-news" data-menu-count="7" data-menu-index="1" id="menu-item-link-1820526">Fillmore</a></li>
+<li id="menu-item-1075" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1075"><a href="https://www.klkntv.com/news/local-news/gage/" data-menu-title="local-news" data-menu-count="7" data-menu-index="2" id="menu-item-link-1075">Gage</a></li>
+<li id="menu-item-1078" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1078"><a href="https://www.klkntv.com/news/local-news/jefferson/" data-menu-title="local-news" data-menu-count="7" data-menu-index="3" id="menu-item-link-1078">Jefferson</a></li>
+<li id="menu-item-1081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1081"><a href="https://www.klkntv.com/news/local-news/lancaster/" data-menu-title="local-news" data-menu-count="7" data-menu-index="4" id="menu-item-link-1081">Lancaster</a></li>
+<li id="menu-item-1084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1084"><a href="https://www.klkntv.com/news/local-news/saline/" data-menu-title="local-news" data-menu-count="7" data-menu-index="5" id="menu-item-link-1084">Saline</a></li>
+<li id="menu-item-1087" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1087"><a href="https://www.klkntv.com/news/local-news/seward/" data-menu-title="local-news" data-menu-count="7" data-menu-index="6" id="menu-item-link-1087">Seward</a></li>
+<li id="menu-item-1090" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1090"><a href="https://www.klkntv.com/news/local-news/york/" data-menu-title="local-news" data-menu-count="7" data-menu-index="7" id="menu-item-link-1090">York</a></li>
+</ul></div></div>								</div>
+															<div class="bucket col-sm-2 footer3">
+									<div id="nav_menu-6" class="widget widget_nav_menu"><h4 class="widgettitle">Weather</h4><div class="menu-weather-container"><ul id="menu-weather" class="menu"><li id="menu-item-970" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-970"><a href="https://www.klkntv.com/weather/" data-menu-title="weather" data-menu-count="7" data-menu-index="1" id="menu-item-link-970">Weather</a></li>
+<li id="menu-item-973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-973"><a href="https://www.klkntv.com/weather/10-day-outlook/" data-menu-title="weather" data-menu-count="7" data-menu-index="2" id="menu-item-link-973">10-Day Outlook</a></li>
+<li id="menu-item-976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-976"><a href="https://www.klkntv.com/weather/school-closings/" data-menu-title="weather" data-menu-count="7" data-menu-index="3" id="menu-item-link-976">Closings &#038; Delays</a></li>
+<li id="menu-item-979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-979"><a href="https://www.klkntv.com/weather/flight-tracker/" data-menu-title="weather" data-menu-count="7" data-menu-index="4" id="menu-item-link-979">Flight Tracker</a></li>
+<li id="menu-item-988" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-988"><a href="https://www.klkntv.com/weather/power-outages/" data-menu-title="weather" data-menu-count="7" data-menu-index="5" id="menu-item-link-988">Power Outages</a></li>
+<li id="menu-item-991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-991"><a href="https://www.klkntv.com/weather/radar/" data-menu-title="weather" data-menu-count="7" data-menu-index="6" id="menu-item-link-991">Weather Radar</a></li>
+<li id="menu-item-994" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-994"><a href="https://www.klkntv.com/weather/submit-your-photos/" data-menu-title="weather" data-menu-count="7" data-menu-index="7" id="menu-item-link-994">Your Weather Photos</a></li>
+</ul></div></div>								</div>
+															<div class="bucket col-sm-2 footer4">
+									<div id="nav_menu-7" class="widget widget_nav_menu"><h4 class="widgettitle">Traffic</h4><div class="menu-traffic-container"><ul id="menu-traffic" class="menu"><li id="menu-item-997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-997"><a href="https://www.klkntv.com/traffic/" data-menu-title="traffic" data-menu-count="2" data-menu-index="1" id="menu-item-link-997">Traffic</a></li>
+<li id="menu-item-1003" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1003"><a href="https://www.klkntv.com/traffic/traffic-map/" data-menu-title="traffic" data-menu-count="2" data-menu-index="2" id="menu-item-link-1003">Traffic Map</a></li>
+</ul></div></div><div id="nav_menu-8" class="widget widget_nav_menu"><h4 class="widgettitle">Sports</h4><div class="menu-sports-container"><ul id="menu-sports" class="menu"><li id="menu-item-1006" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1006"><a href="https://www.klkntv.com/sports/" data-menu-title="sports" data-menu-count="4" data-menu-index="1" id="menu-item-link-1006">Sports</a></li>
+<li id="menu-item-1012" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1012"><a href="https://www.klkntv.com/sports/husker-sports/" data-menu-title="sports" data-menu-count="4" data-menu-index="2" id="menu-item-link-1012">Husker Sports</a></li>
+<li id="menu-item-339403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-339403"><a href="https://www.klkntv.com/lpssports/" data-menu-title="sports" data-menu-count="4" data-menu-index="3" id="menu-item-link-339403">LPS Sports Live</a></li>
+<li id="menu-item-1009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1009"><a href="https://www.klkntv.com/sports/high-school/" data-menu-title="sports" data-menu-count="4" data-menu-index="4" id="menu-item-link-1009">High School</a></li>
+</ul></div></div>								</div>
+															<div class="bucket col-sm-2 footer5">
+									<div id="nav_menu-9" class="widget widget_nav_menu"><h4 class="widgettitle">Community</h4><div class="menu-community-container"><ul id="menu-community" class="menu"><li id="menu-item-1018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1018"><a href="https://www.klkntv.com/community/" data-menu-title="community" data-menu-count="5" data-menu-index="1" id="menu-item-link-1018">Community</a></li>
+<li id="menu-item-367337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-367337"><a href="https://www.klkntv.com/magic-moments/" data-menu-title="community" data-menu-count="5" data-menu-index="2" id="menu-item-link-367337">Magic Moments</a></li>
+<li id="menu-item-372614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-372614"><a href="https://www.klkntv.com/midday-interviews/" data-menu-title="community" data-menu-count="5" data-menu-index="3" id="menu-item-link-372614">Midday Interviews</a></li>
+<li id="menu-item-620789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-620789"><a href="https://www.klkntv.com/community/camps/" data-menu-title="community" data-menu-count="5" data-menu-index="4" id="menu-item-link-620789">Camp It: Nebraska Kids Camps</a></li>
+<li id="menu-item-1024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1024"><a href="https://www.klkntv.com/community/contests/" data-menu-title="community" data-menu-count="5" data-menu-index="5" id="menu-item-link-1024">KLKN Contests</a></li>
+</ul></div></div><div id="nav_menu-10" class="widget widget_nav_menu"><h4 class="widgettitle">Watch</h4><div class="menu-watch-container"><ul id="menu-watch" class="menu"><li id="menu-item-1033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1033"><a href="https://www.klkntv.com/watch/" data-menu-title="watch" data-menu-count="5" data-menu-index="1" id="menu-item-link-1033">Watch</a></li>
+<li id="menu-item-1036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1036"><a href="https://www.klkntv.com/watch/live-stream/" data-menu-title="watch" data-menu-count="5" data-menu-index="2" id="menu-item-link-1036">Live News</a></li>
+<li id="menu-item-1042" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1042"><a href="https://www.klkntv.com/watch/video/" data-menu-title="watch" data-menu-count="5" data-menu-index="3" id="menu-item-link-1042">Video</a></li>
+<li id="menu-item-1039" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1039"><a href="https://www.klkntv.com/watch/tv-schedule/" data-menu-title="watch" data-menu-count="5" data-menu-index="4" id="menu-item-link-1039">TV Schedule</a></li>
+<li id="menu-item-1723" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1723"><a target="_blank" rel="noopener" href="http://smg.ai/mr-food-klkntv" data-menu-title="watch" data-menu-count="5" data-menu-index="5" id="menu-item-link-1723">Mr. Food</a></li>
+</ul></div></div>								</div>
+															<div class="bucket col-sm-2 footer6">
+									<div id="nav_menu-11" class="widget widget_nav_menu"><h4 class="widgettitle">About</h4><div class="menu-about-container"><ul id="menu-about" class="menu"><li id="menu-item-1045" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1045"><a href="https://www.klkntv.com/about/" data-menu-title="about" data-menu-count="13" data-menu-index="1" id="menu-item-link-1045">About</a></li>
+<li id="menu-item-1054" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1054"><a href="https://www.klkntv.com/about/news-team-bios/" data-menu-title="about" data-menu-count="13" data-menu-index="2" id="menu-item-link-1054">Channel 8 News Team</a></li>
+<li id="menu-item-1048" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1048"><a href="https://www.klkntv.com/about/advertise/" data-menu-title="about" data-menu-count="13" data-menu-index="3" id="menu-item-link-1048">Advertise With Us</a></li>
+<li id="menu-item-1051" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1051"><a href="https://www.klkntv.com/about/careers/" data-menu-title="about" data-menu-count="13" data-menu-index="4" id="menu-item-link-1051">Careers</a></li>
+<li id="menu-item-1057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1057"><a href="https://www.klkntv.com/about/closed-captioning/" data-menu-title="about" data-menu-count="13" data-menu-index="5" id="menu-item-link-1057">Closed Captioning</a></li>
+<li id="menu-item-1060" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1060"><a href="https://www.klkntv.com/about/dmca-agent/" data-menu-title="about" data-menu-count="13" data-menu-index="6" id="menu-item-link-1060">DMCA Agent</a></li>
+<li id="menu-item-1063" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1063"><a href="https://publicfiles.fcc.gov/tv-profile/KLKN" data-menu-title="about" data-menu-count="13" data-menu-index="7" id="menu-item-link-1063">FCC Public File</a></li>
+<li id="menu-item-417034" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-417034"><a href="https://www.klkntv.com/eeo-report/" data-menu-title="about" data-menu-count="13" data-menu-index="8" id="menu-item-link-417034">EEO Report</a></li>
+<li id="menu-item-322856" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-322856"><a href="https://www.klkntv.com/about/fcc-applications/" data-menu-title="about" data-menu-count="13" data-menu-index="9" id="menu-item-link-322856">FCC Applications</a></li>
+<li id="menu-item-322858" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-322858"><a href="https://publicfiles.fcc.gov/tv-profile/klkn/programs-list/" data-menu-title="about" data-menu-count="13" data-menu-index="10" id="menu-item-link-322858">Children&#8217;s TV Report</a></li>
+<li id="menu-item-1066" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1066"><a href="https://standardmedia.com/?klkn" data-menu-title="about" data-menu-count="13" data-menu-index="11" id="menu-item-link-1066">Standard Media Group</a></li>
+<li id="menu-item-1798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1798"><a href="https://www.klkntv.com/about/privacy-policy/" data-menu-title="about" data-menu-count="13" data-menu-index="12" id="menu-item-link-1798">Privacy Policy</a></li>
+<li id="menu-item-1801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1801"><a href="https://www.klkntv.com/about/terms-of-use/" data-menu-title="about" data-menu-count="13" data-menu-index="13" id="menu-item-link-1801">Terms of Service</a></li>
+</ul></div></div>								</div>
+													<p class="source-org copyright col-12">&copy; 2024 KLKN-TV.</p>
+					</div>
+				</div>
+
+
+														<div id="extra-footer" class="container">
+						<div>
+													<div class="legal-links" id="footer-content-0">
+															</div>
+																				<div class="footer-logo" id="footer-content-1">
+								<!--<img src="/content/uploads/2021/09/d/d/klkn-tv-logo-v2.png" alt="Nebraska News" class="footer-img" />-->
+<img src="https://www.klkntv.com/content/uploads/2024/04/a/x/nebraska-footer-2.png" alt="Nebraska News" class="footer-img" />							</div>
+																				<div class="app-icons" id="footer-content-2">
+								<a href="https://apps.apple.com/us/app/channel-8-klkn-tv/id419628405"><img src="/content/uploads/2020/02/apple-store-icon.png" /><!--Download on the App Store--></a> <a href="https://play.google.com/store/apps/details?id=com.klkntv.android"><img src="/content/uploads/2020/02/googleplay-icon.png" /><!--Get it on Google Play--></a>							</div>
+																				<div class="custom-copyright" id="footer-content-3">
+								© Copyright <span>2024</span> KLKN Lincoln Operations, LLC - A Standard Media Company - All Rights Reserved							</div>
+																			</div>
+					</div>
+								<div class="powered-by-container">
+					<a href="https://www.bloxdigital.com/" target="_blank"><img class="powered-by" src="https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/library/images/poweredby-blox_digital.png" alt="Powered byBLOX Digital"></a>							
+				</div>
+			</footer>
+			
+		</div></div> <!-- // #page-wrap -->
+				
+	  	<div id="fb-root"></div>
+		<script 
+			async defer crossorigin="anonymous" 
+			src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0&appId=2725035560896891&autoLogAppEvents=1">
+		</script>
+
+	  	<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+							ga('create', 'UA-117934989-3', 'auto'); // Publisher's tracker
+				ga('set', 'dimension1', '3491244');  // Post ID
+				ga('set', 'dimension2', 'Toxic blue-green algae found in two Nebraska lakes');  // Post Title
+				ga('send', 'pageview');
+								</script><link rel='stylesheet' id='js_composer_front-css' href='//wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/uploads/js_composer/js_composer_front_custom.css?ver=6.10.0' type='text/css' media='all' />
+<link rel='stylesheet' id='templatera_inline-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/templatera/assets/css/front_style.css?ver=2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-share-buttons-adder-ssba-css' href='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/simple-share-buttons-adder/css/ssba.css' type='text/css' media='all' />
+<style id='simple-share-buttons-adder-ssba-inline-css' type='text/css'>
+.ssba img
+								{border:  0;
+									box-shadow: none !important;
+									display: inline !important;
+									vertical-align: middle;
+									box-sizing: unset;
+								}
+								
+								.ssba-classic-2 .ssbp-text {
+									display: none!important;
+								}
+					.ssbp-list li a {height: 48px!important; width: 48px!important; 
+					}
+					.ssbp-list li a:hover {
+					}
+						
+					.ssbp-list li a::before {line-height: 48px!important;; font-size: 18px;}
+					.ssbp-list li a:hover::before {}
+					.ssbp-list li {
+					margin-left: 12px!important;
+					}
+					
+					.ssba-share-text {
+					font-size: 12px;  font-weight: normal; font-family: inherit;
+						}
+
+			   #ssba-bar-2 .ssbp-bar-list {
+					max-width: 48px!important;;
+			   }
+			   #ssba-bar-2 .ssbp-bar-list li a {height: 48px!important; width: 48px!important; 
+				}
+				#ssba-bar-2 .ssbp-bar-list li a:hover {
+				}
+					
+				#ssba-bar-2 .ssbp-bar-list li a::before {line-height: 48px!important;; font-size: 18px;}
+				#ssba-bar-2 .ssbp-bar-list li a:hover::before {}
+				#ssba-bar-2 .ssbp-bar-list li {
+				margin: 0px 0!important;
+				}@media only screen and ( max-width: 750px ) {
+				#ssba-bar-2 {
+				display: block;
+				}
+			}
+@font-face {
+				font-family: 'ssbp';
+				src:url('https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/simple-share-buttons-adder/fonts/ssbp.eot?xj3ol1');
+				src:url('https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/simple-share-buttons-adder/fonts/ssbp.eot?#iefixxj3ol1') format('embedded-opentype'),
+					url('https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/simple-share-buttons-adder/fonts/ssbp.woff?xj3ol1') format('woff'),
+					url('https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/simple-share-buttons-adder/fonts/ssbp.ttf?xj3ol1') format('truetype'),
+					url('https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/simple-share-buttons-adder/fonts/ssbp.svg?xj3ol1#ssbp') format('svg');
+				font-weight: normal;
+				font-style: normal;
+
+				/* Better Font Rendering =========== */
+				-webkit-font-smoothing: antialiased;
+				-moz-osx-font-smoothing: grayscale;
+			}
+</style>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/library/js/popper/popper.min.js?ver=2.11.2' id='popper-js-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/library/js/bootstrap/bootstrap.min.js?ver=4.6' id='bootstrap-js-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.10.0' id='isotope-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/themes/gtxcel/library/js/scripts.js' id='bones-js-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/js_composer/assets/lib/flexslider/jquery.flexslider.min.js?ver=6.10.0' id='flexslider-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=6.10.0' id='prettyphoto-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/automatic-copyright-year/script.js?ver=1.0' id='wpsos-copyright-js'></script>
+<script type='text/javascript' id='geobase-script-js-extra'>
+/* <![CDATA[ */
+var ajax_object = {"ajaxurl":"https:\/\/www.klkntv.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/geobase/geobase.js?ver=1570550597' id='geobase-script-js'></script>
+<script type='text/javascript' id='geobasemap-script-js-extra'>
+/* <![CDATA[ */
+var ajax_object = {"ajaxurl":"https:\/\/www.klkntv.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/geobase/vc_geobasemap/vc_geobasemap.js?ver=1635433182' id='geobasemap-script-js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBog8WEotwsEbBdi2ohnR8w5xwFg7mHXOo' id='googlemap-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/geobase/vc_geobasemap/../js/geolocation-marker.js?ver=1570550597' id='googlemapmarker-js'></script>
+<script type='text/javascript' src='https://cdn.polyfill.io/v2/polyfill.js?features=IntersectionObserver&#038;ver=2023.01.04' id='intersectionobserver-polyfill-js'></script>
+<script type='text/javascript' id='ad-manager-script-aps-js-extra'>
+/* <![CDATA[ */
+var gtx_ad_man = {"ajaxurl":"https:\/\/www.klkntv.com\/wp-admin\/admin-ajax.php","lazy_loading_ads":"","dfp_base_path":"\/132916964,22666483375\/klkntv.com\/","dfp_path":"\/132916964,22666483375\/klkntv.com\/nebraska-news","show_lightbox_ads":null,"lightbox_ad_width":null,"lightbox_ad_height":null,"a9_enabled":"1","aps_pubid":"e42ec5cd-11f7-4d8a-a91c-74054da9c4cb"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-ad-manager/ad-manager-aps.js?ver=1678821056' id='ad-manager-script-aps-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-gallery/js/gtx-ugc.js?ver=2018.04.17' id='gtx-ugc-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-gallery/justified-gallery/assets/js/jquery.justifiedGallery.min.js?ver=1.2.2' id='dgwt-justified-gallery-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-gallery/justified-gallery/includes/Lightbox/Photoswipe/assets/jquery.mousewheel.min.js?ver=1.2.2' id='jquery-mousewheel-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-gallery/justified-gallery/includes/Lightbox/Photoswipe/assets/photoswipe-ui-default.min.js?ver=1.2.2' id='dgwt-jg-photoswipe-ui-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-gallery/justified-gallery/includes/Lightbox/Photoswipe/assets/photoswipe.js?ver=1.2.2' id='dgwt-jg-photoswipe-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-gallery/justified-gallery/includes/Lightbox/Photoswipe/assets/jquery.photoswipe.js?ver=1.2.2' id='dgwt-jg-jquery-photoswipe-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/simple-share-buttons-adder/js/ssba.js' id='simple-share-buttons-adder-ssba-js'></script>
+<script type='text/javascript' id='simple-share-buttons-adder-ssba-js-after'>
+Main.boot( [] );
+</script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-scheduled-elements/scheduled-elements.js?ver=2018.08.10' id='scheduled-elements-script-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/mu-plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.10.0' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' src='https://wpcdn.us-east-1.vip.tn-cloud.net/www.klkntv.com/content/plugins/gtx-ad-manager/sticky-anchor/sticky-anchor.js?ver=1637168115' id='sticky-anchor-script-js'></script>
+<script>
+acf.data = {"google_map_api":"https:\/\/maps.googleapis.com\/maps\/api\/js?key=AIzaSyBog8WEotwsEbBdi2ohnR8w5xwFg7mHXOo&libraries=places&ver=3&callback&language=en_US","datePickerL10n":{"closeText":"Done","currentText":"Today","nextText":"Next","prevText":"Prev","weekHeader":"Wk","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesMin":["S","M","T","W","T","F","S"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"]},"dateTimePickerL10n":{"timeOnlyTitle":"Choose Time","timeText":"Time","hourText":"Hour","minuteText":"Minute","secondText":"Second","millisecText":"Millisecond","microsecText":"Microsecond","timezoneText":"Time Zone","currentText":"Now","closeText":"Done","selectText":"Select","amNames":["AM","A"],"pmNames":["PM","P"]},"colorPickerL10n":{"hex_string":"Hex String","rgba_string":"RGBA String"},"mimeTypeIcon":"https:\/\/www.klkntv.com\/wp-includes\/images\/media\/default.png","mimeTypes":{"jpg|jpeg|jpe":"image\/jpeg","gif":"image\/gif","png":"image\/png","bmp":"image\/bmp","tiff|tif":"image\/tiff","ico":"image\/x-icon","txt|asc|c|cc|h|srt":"text\/plain","csv":"text\/csv","tsv":"text\/tab-separated-values","ics":"text\/calendar","rtx":"text\/richtext","css":"text\/css","vtt":"text\/vtt","dfxp":"application\/ttaf+xml","mp3|m4a|m4b":"audio\/mpeg","aac":"audio\/aac","ra|ram":"audio\/x-realaudio","wav":"audio\/wav","ogg|oga":"audio\/ogg","flac":"audio\/flac","mid|midi":"audio\/midi","wma":"audio\/x-ms-wma","wax":"audio\/x-ms-wax","mka":"audio\/x-matroska","rtf":"application\/rtf","pdf":"application\/pdf","class":"application\/java","tar":"application\/x-tar","zip":"application\/zip","gz|gzip":"application\/x-gzip","rar":"application\/rar","7z":"application\/x-7z-compressed","psd":"application\/octet-stream","xcf":"application\/octet-stream","doc":"application\/msword","pot|pps|ppt":"application\/vnd.ms-powerpoint","wri":"application\/vnd.ms-write","xla|xls|xlt|xlw":"application\/vnd.ms-excel","mdb":"application\/vnd.ms-access","mpp":"application\/vnd.ms-project","docx":"application\/vnd.openxmlformats-officedocument.wordprocessingml.document","docm":"application\/vnd.ms-word.document.macroEnabled.12","dotx":"application\/vnd.openxmlformats-officedocument.wordprocessingml.template","dotm":"application\/vnd.ms-word.template.macroEnabled.12","xlsx":"application\/vnd.openxmlformats-officedocument.spreadsheetml.sheet","xlsm":"application\/vnd.ms-excel.sheet.macroEnabled.12","xlsb":"application\/vnd.ms-excel.sheet.binary.macroEnabled.12","xltx":"application\/vnd.openxmlformats-officedocument.spreadsheetml.template","xltm":"application\/vnd.ms-excel.template.macroEnabled.12","xlam":"application\/vnd.ms-excel.addin.macroEnabled.12","pptx":"application\/vnd.openxmlformats-officedocument.presentationml.presentation","pptm":"application\/vnd.ms-powerpoint.presentation.macroEnabled.12","ppsx":"application\/vnd.openxmlformats-officedocument.presentationml.slideshow","ppsm":"application\/vnd.ms-powerpoint.slideshow.macroEnabled.12","potx":"application\/vnd.openxmlformats-officedocument.presentationml.template","potm":"application\/vnd.ms-powerpoint.template.macroEnabled.12","ppam":"application\/vnd.ms-powerpoint.addin.macroEnabled.12","sldx":"application\/vnd.openxmlformats-officedocument.presentationml.slide","sldm":"application\/vnd.ms-powerpoint.slide.macroEnabled.12","onetoc|onetoc2|onetmp|onepkg":"application\/onenote","oxps":"application\/oxps","xps":"application\/vnd.ms-xpsdocument","odt":"application\/vnd.oasis.opendocument.text","odp":"application\/vnd.oasis.opendocument.presentation","ods":"application\/vnd.oasis.opendocument.spreadsheet","odg":"application\/vnd.oasis.opendocument.graphics","odc":"application\/vnd.oasis.opendocument.chart","odb":"application\/vnd.oasis.opendocument.database","odf":"application\/vnd.oasis.opendocument.formula","wp|wpd":"application\/wordperfect","key":"application\/vnd.apple.keynote","numbers":"application\/vnd.apple.numbers","pages":"application\/vnd.apple.pages"},"admin_url":"https:\/\/www.klkntv.com\/wp-admin\/","ajaxurl":"https:\/\/www.klkntv.com\/wp-admin\/admin-ajax.php","nonce":"82a16373ff","acf_version":"6.0.3","wp_version":"6.2.3","browser":"chrome","locale":"en_US","rtl":false,"screen":null,"post_id":null,"validation":null,"editor":"classic"};
+</script>
+<script>
+acf.l10n = {"menu-chooser":{"error":"Error! Please enter a higher value"},"aspect-ratio":{"error":"Error! Please enter a higher value"},"recaptcha":{"error":"Please click the checkbox."},"syndication_search_config":{"error":"Error! Please enter a higher value"},"syndication_objects":{"error":"Error! Please enter a higher value"},"POST_TYPES":{"error":"Error! Please enter a higher value"},"pinnedposts":{"error":"Error! Please enter a higher value"}};
+</script>
+<script>
+acf.doAction( 'prepare' );
+</script>
+<script type="text/javascript">(function($){$(document).ready(function(){var $gallery=$('.dgwt-jg-gallery'),$item=$('.dgwt-jg-item');if($gallery.length>0&&$item.length>0){$item.children('img').each(function(){if(typeof $(this).attr('srcset')!=='undefined'){$(this).attr('data-jg-srcset',$(this).attr('srcset'));$(this).removeAttr('srcset')}});$gallery.justifiedGallery({lastRow:'nojustify',captions:!1,margins:3,rowHeight:160,maxRowHeight:-1,thumbnailPath:function(currentPath,width,height,image){if(typeof $(image).data('jg-srcset')==='undefined'){return currentPath}var srcset=$(image).data('jg-srcset');if($(image).length>0&&srcset.length>0){var path,sizes=[],sizesTemp=[],urls=srcset.split(",");if(urls.length>0){for(i=0;i<urls.length;i++){var url,sizeW,item=urls[i].trim().split(" ");if(typeof item[0]!='undefined'&&typeof item[1]!='undefined'){var sizeW=item[1].replace('w','');sizesTemp[sizeW]={width:item[1].replace('w',''),url:item[0]}}}for(i=0;i<sizesTemp.length;i++){if(sizesTemp[i]){sizes.push(sizesTemp[i])}}}for(i=0;i<sizes.length;i++){if(sizes[i].width>=width){return sizes[i].url}}return currentPath}else{return currentPath}}}).on('jg.complete',function(e){})}})}(jQuery))</script><script type="text/javascript">(function($){$(document).ready(function(){var $gallery=$('.dgwt-jg-gallery'),$item=$('.dgwt-jg-item');if($gallery.length>0&&$item.length>0){$gallery.photoswipe({shareButtons:[{id:'facebook',label:'Share on Facebook',url:'https://www.facebook.com/sharer/sharer.php?u={{image_url}}'},{id:'twitter',label:'Tweet',url:'https://twitter.com/intent/tweet?&url={{url}}'},{id:'pinterest',label:'Pin it',url:'http://www.pinterest.com/pin/create/button/?url={{url}}&media={{image_url}}'},{id:'download',label:'Download image',url:'{{raw_image_url}}',download:!0}]})}})}(jQuery))</script>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+
+		</div><div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" title="Close (Esc)"><span style="text-indent: -99999px; position: absolute;">Close</span></button>
+				<button class="pswp__button pswp__button--share" title="Share"><span style="text-indent: -99999px; position: absolute;">Share</span></button>
+				<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"><span style="text-indent: -99999px; position: absolute;">Toggle Fullscreen</span></button>
+				<button class="pswp__button pswp__button--zoom" title="Zoom in/out"><span style="text-indent: -99999px; position: absolute;">Zoom in/out</span></button>
+				<div class="pswp__preloader"><div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div>
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)"> <span style="text-indent: -99999px; position: absolute;">Previous</span></button>
+			<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)"> <span style="text-indent: -99999px; position: absolute;">Next</span></button>
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+                <div class="pswp__ad_placeholder"></div>
+            </div>
+
+		</div>
+	</div>
+</div>		
+					</body>
+
+</html>
